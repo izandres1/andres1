@@ -1,0 +1,92 @@
+
+
+
+@font-face {
+  font-family: Figtree;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/figtree/figtree_n6.95ae84c4aae8527bf49acfefa51681f642363699.woff2?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=3b11ecb8e86fea34767cd6832194e01bddcabca0c201d14d3c5b7aaa0062c0d8") format("woff2"),
+       url("//seoncare.com/cdn/fonts/figtree/figtree_n6.dd1ffc36a753e704ade8c3228ee88b9f82573f21.woff?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=6c43a04519c143e7a9ad04e5496db719301124c4f6025699d696217b0f8d5858") format("woff");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/figtree/figtree_n4.53d0e0b58c732e898071294b110fe2c701043846.woff2?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=dea15e4f5af98df10f3beceab0b0ab698b4c7b71e9cd9ca166bd401c3c8ca0d3") format("woff2"),
+       url("//seoncare.com/cdn/fonts/figtree/figtree_n4.9be13c53d52a8c8471831282309bf67a31b6d947.woff?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=061abfd356ef4e5f05c9961df556c143eadbe6762c27a6d8c3c3a30ffd00e304") format("woff");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/figtree/figtree_n5.f19a9e5d97a854a08fe824f51816ed450e2ae217.woff2?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=26a3c70ff211b22060e4d18a3bac19e962a63730a175c6f6ad38ede08d036bd4") format("woff2"),
+       url("//seoncare.com/cdn/fonts/figtree/figtree_n5.4ef4c015810c47c6a0c1ddb6b1542f75213d596c.woff?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=592059f456b4367d31e37cd04377b3efbc5aecd5139aa846df1ad2f02e77abfc") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Figtree;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/figtree/figtree_n7.9bb771494213b011109c31b6ed8e263b55fc4970.woff2?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=923171614b4747573303a6cef0fc7d1b011bfb08e87f8a6cdde23c06070c2346") format("woff2"),
+       url("//seoncare.com/cdn/fonts/figtree/figtree_n7.f7a04cd450e78999c987b7e4777c341c41c29274.woff?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=3a3140794e030d3c48d34d19ae2b8e8bc08385c01c3054dfa2a780ceb4ad4a3c") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Figtree;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/figtree/figtree_n6.95ae84c4aae8527bf49acfefa51681f642363699.woff2?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=3b11ecb8e86fea34767cd6832194e01bddcabca0c201d14d3c5b7aaa0062c0d8") format("woff2"),
+       url("//seoncare.com/cdn/fonts/figtree/figtree_n6.dd1ffc36a753e704ade8c3228ee88b9f82573f21.woff?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=6c43a04519c143e7a9ad04e5496db719301124c4f6025699d696217b0f8d5858") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Figtree;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/figtree/figtree_n5.f19a9e5d97a854a08fe824f51816ed450e2ae217.woff2?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=26a3c70ff211b22060e4d18a3bac19e962a63730a175c6f6ad38ede08d036bd4") format("woff2"),
+       url("//seoncare.com/cdn/fonts/figtree/figtree_n5.4ef4c015810c47c6a0c1ddb6b1542f75213d596c.woff?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=592059f456b4367d31e37cd04377b3efbc5aecd5139aa846df1ad2f02e77abfc") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: Figtree;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/figtree/figtree_i4.2ed7fa35a16e4c5ce6d0711624b207750fa5971d.woff2?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=21cadff9608b98a7a0724b9c1f30879da600bf70fb93d956cb8beb143de07f2c") format("woff2"),
+       url("//seoncare.com/cdn/fonts/figtree/figtree_i4.5dfa38bd0f47b418622a31ffad698e6bd19cbfb7.woff?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=3ec62b2fa55b46ddeb82f04958457cc8e412000458222a2f93dc19334116b3b0") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Figtree;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//seoncare.com/cdn/fonts/figtree/figtree_i5.4437c7dc4f619f12f102dbf1c99be1a0090aabed.woff2?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=0e4f65875abeba189fe77e82a8d02c4d0db30925b6ee790eb431bfa0ee59cb83") format("woff2"),
+       url("//seoncare.com/cdn/fonts/figtree/figtree_i5.c8ee301f62ba45daa37bb321438c63cf8b9d9007.woff?h1=aHowY3EwLXB3LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2VvbmNhcmUuY29t&hmac=da4b3aac362bf5829b7fc951767d34194d09666b23884b39c58f83f08369f2ee") format("woff");
+}
+
+
