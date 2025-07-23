@@ -32,10 +32,9 @@
         },
         "text_dEdAhr": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "title": "<h6>Utilizzare una volta al giorno</h6>",
-            "padding_bottom": 16
+            "title": "<h6>Benefici per te:</h6>",
+            "padding_bottom": 0
           }
         },
         "icon_txt9aW": {
