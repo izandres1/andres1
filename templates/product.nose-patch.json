@@ -445,6 +445,8 @@
     "section_before_after_98ENrJ": {
       "type": "section-before-after",
       "settings": {
+        "after_image": "shopify://shop_images/1_03ff1c98-e9a5-46c9-a9d5-e33801e1aa70.png",
+        "before_image": "shopify://shop_images/2_3f853e17-6ffb-40f1-8d26-099bdbacd62f.png",
         "orientation": "horizontal",
         "handle_color": "#ffffff",
         "start_position": 50,
