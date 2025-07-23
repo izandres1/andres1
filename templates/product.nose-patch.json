@@ -432,7 +432,7 @@
       "settings": {
         "align_text": "text-left",
         "text_color": "text--neutral",
-        "bg": "palette--light bg--accent",
+        "bg": "palette--dark bg--invert",
         "content_width": 2000,
         "width": "wrapper",
         "padding_top": 36,
@@ -446,126 +446,6 @@
         "handle_color": "#ffffff",
         "start_position": 50,
         "width": "wrapper--none",
-        "padding_top": 0,
-        "padding_bottom": 120
-      }
-    },
-    "section_richtext_RwTUGb": {
-      "type": "section-richtext",
-      "blocks": {
-        "heading_8Hxcpz": {
-          "type": "heading",
-          "settings": {
-            "heading": "i nostri ingredienti eroici",
-            "text_size": 10
-          }
-        }
-      },
-      "block_order": [
-        "heading_8Hxcpz"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "text-center",
-        "text_color": "text--neutral",
-        "bg": "palette--light bg--accent",
-        "content_width": 2000,
-        "width": "wrapper",
-        "padding_top": 90,
-        "padding_bottom": 90
-      }
-    },
-    "section_columns_w6HeJi": {
-      "type": "section-columns",
-      "blocks": {
-        "text_block_rjwHMC": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/4_2177d941-6f25-43eb-ad61-c8f0a40bec82.png",
-            "shape_class": "",
-            "title": "Dimentica i tuoi pori",
-            "text": "<ul><li><strong>Risultati visibili</strong> dalla prima applicazione.</li><li>Ogni patch <strong>affina, purifica e migliora</strong> la grana della pelle.</li><li>Con un uso costante,<strong> i risultati</strong> si stabilizzano e <strong>durano nel tempo</strong>.<br/><br/>Puoi ricevere fino a: 3 box, spedizione gratuita e Manuale Bonus in regalo.</li></ul>",
-            "button_label": "",
-            "button_link": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn--soft",
-            "enable_video": false,
-            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "video_button_color": "text--white"
-          }
-        },
-        "text_block_nfKJ3d": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/3.png",
-            "shape_class": "",
-            "title": "Tecnologia IonHydro™",
-            "text": "<p>All’interno di ogni patch IonClear™ è attivata una t<strong>ecnologia a rilascio mirato</strong> che libera ioni attivi <strong>intelligenti</strong>.</p><p>Queste micro-cariche penetrano nei pori e si attivano solo<strong> in presenza di impurità</strong> e sebo in eccesso, aiutando a<strong> scioglierli e rimuoverli in profondità</strong> — senza stressare la pelle.</p>",
-            "button_label": "",
-            "button_link": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn--soft",
-            "enable_video": false,
-            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "video_button_color": "text--white"
-          }
-        },
-        "text_block_8EHkYe": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/2.png",
-            "shape_class": "",
-            "title": "hai già provato di tutto?",
-            "text": "<p>Spremi, copri, applichi il solito cerotto o la maschera che si \"strappa via\", va via qualcosa, ma poi torna tutto come prima.</p><p>Il problema NON è la tua pelle, ma è il <strong>METODO</strong> che<strong> NON FUNZIONA!</strong></p>",
-            "button_label": "",
-            "button_link": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn--soft",
-            "enable_video": false,
-            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "video_button_color": "text--white"
-          }
-        },
-        "text_block_hftppL": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/1.png",
-            "shape_class": "",
-            "title": "Feature images or videos",
-            "text": "<p>Add a video popup link to show a play button.  Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
-            "button_label": "",
-            "button_link": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn--soft",
-            "enable_video": false,
-            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "video_button_color": "text--white"
-          }
-        }
-      },
-      "block_order": [
-        "text_block_rjwHMC",
-        "text_block_nfKJ3d",
-        "text_block_8EHkYe",
-        "text_block_hftppL"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "title": "",
-        "bg": "palette--light bg--neutral",
-        "align_text": "text-center",
-        "scale_image": false,
-        "wh_ratio": 5,
-        "grid_large": 3,
-        "grid_medium": 3,
-        "grid_mobile": 1.2,
-        "progress_bar_mobile": true,
-        "width": "wrapper",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -701,13 +581,13 @@
         "body_gap_mobile": 40,
         "content_horizontal_align": "start",
         "content_horizontal_align_mobile": "center",
-        "heading": "<p>Seduta Estetica <strong>vs IonClear™</strong></p>",
+        "heading": "",
         "heading_custom": true,
         "heading_font": "figtree_n6",
         "heading_size": 52,
         "heading_size_mobile": 32,
         "heading_height": 120,
-        "text": "<p>IonClear™ ti offre risultati visibili, senza appuntamenti né spese esagerate — <br/>e a una frazione del costo di una seduta estetica.</p>",
+        "text": "",
         "text_custom": true,
         "text_font": "figtree_n4",
         "text_size": 16,
@@ -807,7 +687,7 @@
         "background_color": "#fcfaf7",
         "background_gradient": "",
         "border_color": "#000000",
-        "margin_top": 40,
+        "margin_top": 0,
         "margin_bottom": 32,
         "padding_top": 72,
         "padding_bottom": 72,
@@ -817,6 +697,126 @@
         "content_width": 130,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "section_richtext_RwTUGb": {
+      "type": "section-richtext",
+      "blocks": {
+        "heading_8Hxcpz": {
+          "type": "heading",
+          "settings": {
+            "heading": "i nostri ingredienti eroici",
+            "text_size": 10
+          }
+        }
+      },
+      "block_order": [
+        "heading_8Hxcpz"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 90,
+        "padding_bottom": 90
+      }
+    },
+    "section_columns_w6HeJi": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_rjwHMC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/4_2177d941-6f25-43eb-ad61-c8f0a40bec82.png",
+            "shape_class": "",
+            "title": "Dimentica i tuoi pori",
+            "text": "<ul><li><strong>Risultati visibili</strong> dalla prima applicazione.</li><li>Ogni patch <strong>affina, purifica e migliora</strong> la grana della pelle.</li><li>Con un uso costante,<strong> i risultati</strong> si stabilizzano e <strong>durano nel tempo</strong>.<br/><br/>Puoi ricevere fino a: 3 box, spedizione gratuita e Manuale Bonus in regalo.</li></ul>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_nfKJ3d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/3.png",
+            "shape_class": "",
+            "title": "Tecnologia IonHydro™",
+            "text": "<p>All’interno di ogni patch IonClear™ è attivata una t<strong>ecnologia a rilascio mirato</strong> che libera ioni attivi <strong>intelligenti</strong>.</p><p>Queste micro-cariche penetrano nei pori e si attivano solo<strong> in presenza di impurità</strong> e sebo in eccesso, aiutando a<strong> scioglierli e rimuoverli in profondità</strong> — senza stressare la pelle.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_8EHkYe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/2.png",
+            "shape_class": "",
+            "title": "hai già provato di tutto?",
+            "text": "<p>Spremi, copri, applichi il solito cerotto o la maschera che si \"strappa via\", va via qualcosa, ma poi torna tutto come prima.</p><p>Il problema NON è la tua pelle, ma è il <strong>METODO</strong> che<strong> NON FUNZIONA!</strong></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_hftppL": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/1.png",
+            "shape_class": "",
+            "title": "Feature images or videos",
+            "text": "<p>Add a video popup link to show a play button.  Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rjwHMC",
+        "text_block_nfKJ3d",
+        "text_block_8EHkYe",
+        "text_block_hftppL"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": false,
+        "wh_ratio": 5,
+        "grid_large": 3,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "progress_bar_mobile": true,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "image-with-text": {
@@ -1329,9 +1329,9 @@
     "section_icons_nzT4mj",
     "section_richtext_LmwPfq",
     "section_before_after_98ENrJ",
+    "ss_comparison_table_6_FBRDyT",
     "section_richtext_RwTUGb",
     "section_columns_w6HeJi",
-    "ss_comparison_table_6_FBRDyT",
     "image-with-text",
     "related",
     "ss_testimonial_4_GqKCwy",
