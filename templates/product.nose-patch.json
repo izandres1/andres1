@@ -485,10 +485,10 @@
         "table_row_Ln9EpA": {
           "type": "table_row",
           "settings": {
-            "row_heading": "COSTO 1 SEDUTA",
-            "first_column": "€24 (per Box)",
+            "row_heading": "EFFETTO COLLATERALE",
+            "first_column": "Nessun effetto collaterale",
             "first_column_icon": "none",
-            "second_column": "€50 – €80",
+            "second_column": "Fase iniziale di muta",
             "second_column_icon": "none",
             "third_column": "",
             "third_column_icon": "none",
@@ -499,10 +499,10 @@
         "table_row_6TkKfU": {
           "type": "table_row",
           "settings": {
-            "row_heading": "FREQUENZA",
-            "first_column": "2 patch a settimana",
+            "row_heading": "INGREDIENTI",
+            "first_column": "Ingredienti naturali",
             "first_column_icon": "none",
-            "second_column": "1 al mese",
+            "second_column": "Ingredienti sintetici",
             "second_column_icon": "none",
             "third_column": "",
             "third_column_icon": "none",
@@ -513,10 +513,10 @@
         "table_row_Lk8NDE": {
           "type": "table_row",
           "settings": {
-            "row_heading": "COSTO 3 MESI",
-            "first_column": "€83,76 (3 box)",
+            "row_heading": "CRESCITA VISIBILE IN:",
+            "first_column": "2-6 mesi",
             "first_column_icon": "none",
-            "second_column": "€150 - €240",
+            "second_column": "4-6 mesi",
             "second_column_icon": "none",
             "third_column": "",
             "third_column_icon": "none",
@@ -527,10 +527,10 @@
         "table_row_i7QWGW": {
           "type": "table_row",
           "settings": {
-            "row_heading": "RISPARMIO STIMATO",
-            "first_column": "-€156",
+            "row_heading": "DELICATEZZA",
+            "first_column": "Delicato sul cuoio capelluto",
             "first_column_icon": "none",
-            "second_column": "-",
+            "second_column": "Potenziale irritazione del cuoio capelluto",
             "second_column_icon": "none",
             "third_column": "",
             "third_column_icon": "none",
