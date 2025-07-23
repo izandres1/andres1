@@ -343,9 +343,10 @@
           "type": "icon_block",
           "settings": {
             "icon_name": "icon-shipment-world",
+            "icon_alt": "shopify://shop_images/gempages_537144253281731374-47688a42-7815-44c0-9c71-70f6c3ce05e1.avif",
             "icon_color": "#aaaaaa",
-            "title": "Applica prima di dormire",
-            "text": "<p>Una sola patch, zero routine complicate. Si applica in 10 secondi.</p>",
+            "title": "NESSUNA FASE DI PERDITA",
+            "text": "<p>A differenza del Minoxidil, Aivon si concentra sulla ricrescita senza causare ulteriore caduta dei capelli</p>",
             "link_text": "",
             "link_url": ""
           }
@@ -354,9 +355,10 @@
           "type": "icon_block",
           "settings": {
             "icon_name": "icon-basket-return",
+            "icon_alt": "shopify://shop_images/gempages_537144253281731374-54bd66df-5554-40c7-8ca7-53c212da1389.avif",
             "icon_color": "#aaaaaa",
-            "title": "Agisce durante la notte",
-            "text": "<p>In 6-8 ore gli <strong>idrocolloidi</strong> assorbono il sebo, gli <strong>ioni attivi</strong> purificano in profondità.</p>",
+            "title": "RICRESCITA RAPIDA",
+            "text": "<p>Risultati visibili in soli 3-6 mesi, senza bisogno di un impegno a vita</p>",
             "link_text": "",
             "link_url": ""
           }
@@ -365,9 +367,22 @@
           "type": "icon_block",
           "settings": {
             "icon_name": "icon-phone",
+            "icon_alt": "shopify://shop_images/gempages_537144253281731374-6ef9d55c-f73e-4e2f-8ebe-8e81893623a1.avif",
             "icon_color": "#aaaaaa",
-            "title": "Risultato al risveglio",
-            "text": "<p>Una sensazione diversa, una pelle più pulita. Il cambiamento cresce con ogni applicazione.</p>",
+            "title": "DELICATO SUL CUOIO CAPELLUTO",
+            "text": "<p>Nessuna irritazione o effetti collaterali, rendendolo ideale per l'uso quotidiano e a lungo termine</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_mDLY6F": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-leaf",
+            "icon_alt": "shopify://shop_images/gempages_537144253281731374-1b6b9296-fdcb-41f4-9782-7f9ccf60cf84.webp",
+            "icon_color": "#aaaaaa",
+            "title": "FORMULA NATURALE",
+            "text": "<p>Ingredienti potenti che ripristinano l'equilibrio del cuoio capelluto per promuovere una crescita robusta dei capelli</p>",
             "link_text": "",
             "link_url": ""
           }
@@ -376,7 +391,8 @@
       "block_order": [
         "icon_block_zC8ry8",
         "icon_block_r4iWdG",
-        "icon_block_zWd6Gt"
+        "icon_block_zWd6Gt",
+        "icon_block_mDLY6F"
       ],
       "settings": {
         "title": "",
