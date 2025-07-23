@@ -831,6 +831,7 @@
         "text_fHYdjW",
         "button_Pp3jiT"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "text-left",
         "text_color": "text--neutral",
@@ -843,6 +844,7 @@
     },
     "section_before_after_98ENrJ": {
       "type": "section-before-after",
+      "disabled": true,
       "settings": {
         "orientation": "horizontal",
         "handle_color": "#ffffff",
