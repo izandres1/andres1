@@ -406,6 +406,50 @@
         "padding_bottom": 80
       }
     },
+    "section_richtext_LmwPfq": {
+      "type": "section-richtext",
+      "blocks": {
+        "heading_h8NaYE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Oltre 10.000",
+            "text_size": 10
+          }
+        },
+        "text_fHYdjW": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>confezioni vendute e migliaia di <strong>vere trasformazioni di capelli</strong></h6>",
+            "text_size": 5,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "heading_h8NaYE",
+        "text_fHYdjW"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 46
+      }
+    },
+    "section_before_after_98ENrJ": {
+      "type": "section-before-after",
+      "settings": {
+        "orientation": "horizontal",
+        "handle_color": "#ffffff",
+        "start_position": 50,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 120
+      }
+    },
     "section_richtext_RwTUGb": {
       "type": "section-richtext",
       "blocks": {
@@ -773,85 +817,6 @@
         "content_width": 130,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "section_richtext_LmwPfq": {
-      "type": "section-richtext",
-      "blocks": {
-        "kicker_CLq3RA": {
-          "type": "kicker",
-          "disabled": true,
-          "settings": {
-            "kicker": "Introducing",
-            "enable_line": true,
-            "text_size": 4
-          }
-        },
-        "heading_h8NaYE": {
-          "type": "heading",
-          "settings": {
-            "heading": "Questa non è una maschera che tira via. È il risultato visibile dopo il trattamento IonClear™ . Vuoi questo “dopo”? Inizia oggi.",
-            "text_size": 12
-          }
-        },
-        "text_fHYdjW": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<h1>Questa non è una maschera che tira via.<br/>È il risultato visibile dopo il trattamento IonClear™ in 3 fasi.<br/>Vuoi questo “dopo”? Inizia oggi.</h1>",
-            "text_size": 4,
-            "text_columns": 1
-          }
-        },
-        "button_Pp3jiT": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link_text_1": "Shop all",
-            "link_1": "shopify://collections/all",
-            "button_size_1": "btn--medium",
-            "button_style_1": "btn-text-thick-line",
-            "button_color_1": "btn--neutral",
-            "link_text_2": "",
-            "link_2": "",
-            "button_size_2": "btn--medium",
-            "button_style_2": "btn-text-thick-line",
-            "button_color_2": "btn--neutral",
-            "link_text_3": "",
-            "link_3": "",
-            "button_size_3": "btn--medium",
-            "button_style_3": "btn-text-thick-line",
-            "button_color_3": "btn--neutral"
-          }
-        }
-      },
-      "block_order": [
-        "kicker_CLq3RA",
-        "heading_h8NaYE",
-        "text_fHYdjW",
-        "button_Pp3jiT"
-      ],
-      "disabled": true,
-      "settings": {
-        "align_text": "text-left",
-        "text_color": "text--neutral",
-        "bg": "palette--light bg--neutral",
-        "content_width": 2000,
-        "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 46
-      }
-    },
-    "section_before_after_98ENrJ": {
-      "type": "section-before-after",
-      "disabled": true,
-      "settings": {
-        "orientation": "horizontal",
-        "handle_color": "#ffffff",
-        "start_position": 50,
-        "width": "wrapper",
-        "padding_top": 0,
-        "padding_bottom": 120
       }
     },
     "image-with-text": {
@@ -1362,11 +1327,11 @@
     "main",
     "section_double_Cgp9B3",
     "section_icons_nzT4mj",
+    "section_richtext_LmwPfq",
+    "section_before_after_98ENrJ",
     "section_richtext_RwTUGb",
     "section_columns_w6HeJi",
     "ss_comparison_table_6_FBRDyT",
-    "section_richtext_LmwPfq",
-    "section_before_after_98ENrJ",
     "image-with-text",
     "related",
     "ss_testimonial_4_GqKCwy",
