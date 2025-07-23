@@ -285,26 +285,10 @@
     "section_double_Cgp9B3": {
       "type": "section-double",
       "blocks": {
-        "text_tKjFpL": {
-          "type": "text",
-          "settings": {
-            "kicker": "",
-            "title": "Come funziona",
-            "text": "<p>Ti basta applicare la patch sulla zona naso pulita e asciutta, prima di andare a dormire.<br/></p><p><strong>In 6–8 ore</strong>, gli idrocolloidi assorbono il sebo in profondità, mentre gli ioni attivi rilasciano gli ingredienti purificanti dove servono.<br/><br/>Al mattino, la pelle è visibilmente più pulita, liscia e opaca.<br/><br/>Zero irritazioni. Zero sforzo. Solo risultati.<br/><br/></p>",
-            "font_size": 5,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn-text-thick-line",
-            "text_color": "text--neutral",
-            "bg_color": "#f3ebe2"
-          }
-        },
         "image_3e4iCf": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_23_lug_2025_11_20_59.png",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "enable_overlay_text": false,
@@ -318,11 +302,28 @@
             "button_color": "btn--white",
             "button_style": "btn"
           }
+        },
+        "text_tKjFpL": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "La nuova era della ricrescita capillare è qui",
+            "text": "<p>Dì addio a trattamenti inefficaci, aggressivi o pieni di effetti collaterali. </p><p>AIVON LAB rivoluziona la cura dei capelli con una formula clinicamente bilanciata, naturale e delicata, pensata per stimolare la ricrescita in modo rapido, sicuro e duraturo. </p><p>Nessuna fase di caduta, nessuna irritazione: solo risultati visibili e cuoio capelluto sano.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": "#ecf2fb"
+          }
         }
       },
       "block_order": [
-        "text_tKjFpL",
-        "image_3e4iCf"
+        "image_3e4iCf",
+        "text_tKjFpL"
       ],
       "settings": {
         "height": "use_screen_three_quarters",
