@@ -36,6 +36,12 @@
             "padding_bottom": 20
           }
         },
+        "liquid_qHaJAj": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": "<style>\n  .clinic-banner {\n    background: linear-gradient(90deg, #1e3a8a, #93c5fd);\n    color: #fff;\n    border-radius: 8px;\n    padding: 6px 12px;\n    display: inline-flex;\n    align-items: center;\n    font-family: 'Helvetica Neue', sans-serif;\n    font-size: 14px;\n    font-weight: 500;\n    gap: 6px;\nmargin-bottom: 20px;\n  }\n\n  .clinic-banner svg {\n    width: 18px;\n    height: 18px;\n    fill: white;\n  }\n</style>\n\n<div class=\"clinic-banner\">\n  <!-- Medaglietta con stella -->\n  <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n    <path d=\"M17 10.5C17 13.54 14.54 16 11.5 16C8.46 16 6 13.54 6 10.5C6 7.46 8.46 5 11.5 5C14.54 5 17 7.46 17 10.5ZM11.5 2C6.81 2 3 5.81 3 10.5C3 13.43 4.64 16.04 7.13 17.46L6.24 21.33C6.13 21.83 6.57 22.27 7.07 22.16L10.94 21.27L13.17 23.5L14.17 22.5L11.94 20.27L13.5 16.4C16.77 14.99 19 12.05 19 10.5C19 5.81 15.19 2 11.5 2Z\" />\n  </svg>\n  Utilizzato da oltre 200 cliniche negli Stati Uniti\n</div>"
+          }
+        },
         "text_dEdAhr": {
           "type": "text",
           "settings": {
@@ -232,6 +238,7 @@
         "image_HHyQ7T",
         "liquid_tUijm3",
         "title",
+        "liquid_qHaJAj",
         "text_dEdAhr",
         "icon_txt9aW",
         "icon_abRabA",
