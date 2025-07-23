@@ -93,6 +93,12 @@
             "padding_bottom": 50
           }
         },
+        "liquid_xXxRhq": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": "<style>\n  .info-button {\n    display: inline-flex;\n    align-items: center;\n    background-color: #e5edf5;\n    color: #0b2a4a;\n    border: 2px solid #0b2a4a;\n    border-radius: 30px;\n    padding: 6px 14px;\n    font-weight: 600;\n    font-size: 14px;\n    font-family: 'Helvetica Neue', sans-serif;\n    cursor: pointer;\n    gap: 6px;\nmargin-top: -10px;\nmargin-bottom: 20px;\n  }\n\n  .info-button svg {\n    width: 14px;\n    height: 14px;\n    fill: #0b2a4a;\n  }\n\n  .popup-overlay {\n    display: none;\n    position: fixed;\n    z-index: 9999;\n    top: 0; left: 0;\n    width: 100%; height: 100%;\n    background: rgba(0, 0, 0, 0.4);\n    padding: 20px;\n    box-sizing: border-box;\n  }\n\n  .popup-box {\n    background: white;\n    border-radius: 8px;\n    max-width: 400px;\n    width: 100%;\n    margin: auto;\n    padding: 20px;\n    position: relative;\n    top: 50%;\n    transform: translateY(-50%);\n    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);\n    font-family: 'Helvetica Neue', sans-serif;\n  }\n\n  .popup-box h3 {\n    margin-top: 0;\n    font-size: 16px;\n    font-weight: 700;\n    color: #0b2a4a;\n  }\n\n  .popup-box ul {\n    list-style: none;\n    padding-left: 0;\n    margin-top: 10px;\n  }\n\n  .popup-box ul li {\n    margin-bottom: 10px;\n    position: relative;\n    padding-left: 22px;\n    color: #4a4a4a;\n    font-size: 14px;\n  }\n\n  .popup-box ul li::before {\n    content: '⬤';\n    font-size: 10px;\n    color: #0b2a4a;\n    position: absolute;\n    left: 0;\n    top: 2px;\n  }\n\n  .popup-close {\n    position: absolute;\n    top: 10px;\n    right: 14px;\n    cursor: pointer;\n    font-size: 18px;\n    color: #555;\n    font-weight: bold;\n  }\n</style>\n\n<!-- Bottone -->\n<div class=\"info-button\" onclick=\"document.getElementById('popup-overlay').style.display='block'\">\n  <svg viewBox=\"0 0 24 24\">\n    <path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 14h-1v-6h2v6h-1zm0-8h-1V7h2v1z\"/>\n  </svg>\n  È la soluzione giusta per me?\n</div>\n\n<!-- Popup -->\n<div class=\"popup-overlay\" id=\"popup-overlay\" onclick=\"if(event.target.id === 'popup-overlay'){this.style.display='none'}\">\n  <div class=\"popup-box\">\n    <div class=\"popup-close\" onclick=\"document.getElementById('popup-overlay').style.display='none'\">×</div>\n    <h3>Perfetto per…</h3>\n    <ul>\n      <li>Attaccatura dei capelli sfuggente</li>\n      <li>Assottigliamento della corona e delle tempie</li>\n      <li>Perdita di capelli e ricrescita lenta</li>\n    </ul>\n  </div>\n</div>"
+          }
+        },
         "price": {
           "type": "price",
           "disabled": true,
@@ -244,6 +250,7 @@
         "icon_abRabA",
         "icon_7tgKFJ",
         "icon_xzXmRP",
+        "liquid_xXxRhq",
         "price",
         "variants",
         "subscriptions",
