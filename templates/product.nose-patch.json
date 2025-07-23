@@ -20,6 +20,12 @@
             "padding_bottom": 18
           }
         },
+        "liquid_tUijm3": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": "<style>\n  .custom-review-widget {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    font-family: 'Helvetica Neue', sans-serif;\n    font-size: 15px;\n    color: #333;\n    margin-top: -10px;\nmargin-bottom: 10px;\n  }\n\n  .custom-review-widget .stars {\n    display: flex;\n    gap: 2px;\n  }\n\n  .custom-review-widget .star {\n    fill: #337ab7;\n    width: 16px;\n    height: 16px;\n  }\n\n  .custom-review-widget .review-count {\n    font-weight: 500;\n  }\n\n  .custom-review-widget .success-badge {\n    background-color: #f2f2f2;\n    padding: 4px 8px;\n    border-radius: 8px;\n    font-size: 11px;\n    color: #555;\n    font-weight: 500;\n  }\n</style>\n\n<div class=\"custom-review-widget\">\n  <div class=\"stars\">\n    {% for i in (1..5) %}\n      <svg class=\"star\" viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M10 15l-5.878 3.09L5.82 11.545.939 7.41l6.09-.885L10 1l2.97 5.525 6.09.885-4.88 4.135 1.698 6.545z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <span class=\"review-count\">(1.695)</span>\n  <div class=\"success-badge\">TASSO DI SUCCESSO DEL 91%</div>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -224,6 +230,7 @@
       },
       "block_order": [
         "image_HHyQ7T",
+        "liquid_tUijm3",
         "title",
         "text_dEdAhr",
         "icon_txt9aW",
