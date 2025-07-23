@@ -738,48 +738,13 @@
     "section_columns_w6HeJi": {
       "type": "section-columns",
       "blocks": {
-        "text_block_rjwHMC": {
+        "text_block_ArJWAH": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/1_6eefed83-f327-4f24-84cc-54537838e345.png",
             "shape_class": "",
-            "title": "Massaggio",
-            "text": "<p>Applicare alcune gocce direttamente sul cuoio capelluto e massaggiare delicatamente</p>",
-            "button_label": "",
-            "button_link": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn--soft",
-            "enable_video": false,
-            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "video_button_color": "text--white"
-          }
-        },
-        "text_block_nfKJ3d": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/2_5400cbf7-eaaf-4792-9fe8-a7a691459d46.png",
-            "shape_class": "",
-            "title": "Tecnologia IonHydro™",
-            "text": "<p>All’interno di ogni patch IonClear™ è attivata una t<strong>ecnologia a rilascio mirato</strong> che libera ioni attivi <strong>intelligenti</strong>.</p><p>Queste micro-cariche penetrano nei pori e si attivano solo<strong> in presenza di impurità</strong> e sebo in eccesso, aiutando a<strong> scioglierli e rimuoverli in profondità</strong> — senza stressare la pelle.</p>",
-            "button_label": "",
-            "button_link": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn--soft",
-            "enable_video": false,
-            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "video_button_color": "text--white"
-          }
-        },
-        "text_block_8EHkYe": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/3_5747202c-74bf-41af-b909-0a5cb1c1be73.png",
-            "shape_class": "",
-            "title": "hai già provato di tutto?",
-            "text": "<p>Spremi, copri, applichi il solito cerotto o la maschera che si \"strappa via\", va via qualcosa, ma poi torna tutto come prima.</p><p>Il problema NON è la tua pelle, ma è il <strong>METODO</strong> che<strong> NON FUNZIONA!</strong></p>",
+            "title": "Feature images or videos",
+            "text": "<p>Add a video popup link to show a play button.  Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
             "button_label": "",
             "button_link": "",
             "button_color": "btn--neutral",
@@ -791,9 +756,7 @@
         }
       },
       "block_order": [
-        "text_block_rjwHMC",
-        "text_block_nfKJ3d",
-        "text_block_8EHkYe"
+        "text_block_ArJWAH"
       ],
       "disabled": true,
       "custom_css": [],
