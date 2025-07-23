@@ -693,7 +693,7 @@
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
-        "margin_bottom": 28,
+        "margin_bottom": 0,
         "padding_top": 8,
         "padding_bottom": 100,
         "padding_horizontal": 5,
@@ -710,7 +710,7 @@
         "heading_8Hxcpz": {
           "type": "heading",
           "settings": {
-            "heading": "i nostri ingredienti eroici",
+            "heading": "COME USARLO",
             "text_size": 10
           }
         }
@@ -718,7 +718,6 @@
       "block_order": [
         "heading_8Hxcpz"
       ],
-      "disabled": true,
       "settings": {
         "align_text": "text-center",
         "text_color": "text--neutral",
@@ -729,6 +728,13 @@
         "padding_bottom": 90
       }
     },
+    "section_liquid_6jXwUX": {
+      "type": "section-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"instructions-container\">\n  <div class=\"step\">\n    <span class=\"step-number\">01</span>\n    <div class=\"step-content\">\n      <h3>MASSAGGIO</h3>\n      <p>Applicare alcune gocce direttamente sul cuoio capelluto e massaggiare delicatamente</p>\n    </div>\n  </div>\n\n  <div class=\"step\">\n    <span class=\"step-number\">02</span>\n    <div class=\"step-content\">\n      <h3>2 MINUTI DI ATTESA</h3>\n      <p>Lasciare agire il siero per 2–3 minuti, dandogli il tempo di penetrare e assorbirlo nel cuoio capelluto.</p>\n    </div>\n  </div>\n\n  <div class=\"step\">\n    <span class=\"step-number\">03</span>\n    <div class=\"step-content\">\n      <h3>RISCIACQUO</h3>\n      <p>Risciacquare abbondantemente con acqua, assicurandosi che non rimangano residui e che il cuoio capelluto sia fresco e pulito.</p>\n    </div>\n  </div>\n\n  <div class=\"note-box\">\n    Utilizzare quotidianamente per risultati ottimali\n  </div>\n</div>\n\n<style>\n.instructions-container {\n  font-family: 'Poppins', sans-serif;\n  background: white;\n  padding: 30px 20px;\n  border-radius: 12px;\nmargin-top: -40px;\n}\n\n.step {\n  display: flex;\n  align-items: flex-start;\n  margin-bottom: 25px;\n}\n\n.step-number {\n  font-size: 28px;\n  font-weight: bold;\n  color: #3A7BFA;\n  margin-right: 15px;\n  min-width: 40px;\n}\n\n.step-content h3 {\n  font-size: 17px;\n  margin: 0 0 5px 0;\n  color: #0a0a0a;\n  font-weight: 700;\n}\n\n.step-content p {\n  font-size: 15px;\n  margin: 0;\n  color: #555;\n  line-height: 1.5;\n}\n\n.note-box {\n  margin-top: 50px;\n  border: 2px dashed #000;\n  padding: 12px;\n  font-size: 14px;\n  text-align: center;\n  border-radius: 10px;\n  color: #0a0a0a;\n}\n</style>"
+      }
+    },
     "section_columns_w6HeJi": {
       "type": "section-columns",
       "blocks": {
@@ -736,10 +742,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/4_2177d941-6f25-43eb-ad61-c8f0a40bec82.png",
+            "image": "shopify://shop_images/1_6eefed83-f327-4f24-84cc-54537838e345.png",
             "shape_class": "",
-            "title": "Dimentica i tuoi pori",
-            "text": "<ul><li><strong>Risultati visibili</strong> dalla prima applicazione.</li><li>Ogni patch <strong>affina, purifica e migliora</strong> la grana della pelle.</li><li>Con un uso costante,<strong> i risultati</strong> si stabilizzano e <strong>durano nel tempo</strong>.<br/><br/>Puoi ricevere fino a: 3 box, spedizione gratuita e Manuale Bonus in regalo.</li></ul>",
+            "title": "Massaggio",
+            "text": "<p>Applicare alcune gocce direttamente sul cuoio capelluto e massaggiare delicatamente</p>",
             "button_label": "",
             "button_link": "",
             "button_color": "btn--neutral",
@@ -753,7 +759,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/3.png",
+            "image": "shopify://shop_images/2_5400cbf7-eaaf-4792-9fe8-a7a691459d46.png",
             "shape_class": "",
             "title": "Tecnologia IonHydro™",
             "text": "<p>All’interno di ogni patch IonClear™ è attivata una t<strong>ecnologia a rilascio mirato</strong> che libera ioni attivi <strong>intelligenti</strong>.</p><p>Queste micro-cariche penetrano nei pori e si attivano solo<strong> in presenza di impurità</strong> e sebo in eccesso, aiutando a<strong> scioglierli e rimuoverli in profondità</strong> — senza stressare la pelle.</p>",
@@ -770,27 +776,10 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/3_5747202c-74bf-41af-b909-0a5cb1c1be73.png",
             "shape_class": "",
             "title": "hai già provato di tutto?",
             "text": "<p>Spremi, copri, applichi il solito cerotto o la maschera che si \"strappa via\", va via qualcosa, ma poi torna tutto come prima.</p><p>Il problema NON è la tua pelle, ma è il <strong>METODO</strong> che<strong> NON FUNZIONA!</strong></p>",
-            "button_label": "",
-            "button_link": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn--soft",
-            "enable_video": false,
-            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "video_button_color": "text--white"
-          }
-        },
-        "text_block_hftppL": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/1.png",
-            "shape_class": "",
-            "title": "Feature images or videos",
-            "text": "<p>Add a video popup link to show a play button.  Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
             "button_label": "",
             "button_link": "",
             "button_color": "btn--neutral",
@@ -804,17 +793,16 @@
       "block_order": [
         "text_block_rjwHMC",
         "text_block_nfKJ3d",
-        "text_block_8EHkYe",
-        "text_block_hftppL"
+        "text_block_8EHkYe"
       ],
       "disabled": true,
       "custom_css": [],
       "settings": {
-        "title": "",
+        "title": "COME USARLO",
         "bg": "palette--light bg--neutral",
         "align_text": "text-center",
-        "scale_image": false,
-        "wh_ratio": 5,
+        "scale_image": true,
+        "wh_ratio": 1.3,
         "grid_large": 3,
         "grid_medium": 3,
         "grid_mobile": 1.2,
@@ -1336,6 +1324,7 @@
     "section_before_after_98ENrJ",
     "ss_comparison_table_6_FBRDyT",
     "section_richtext_RwTUGb",
+    "section_liquid_6jXwUX",
     "section_columns_w6HeJi",
     "image-with-text",
     "related",
