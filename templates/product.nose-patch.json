@@ -1305,9 +1305,9 @@
       "settings": {
         "title": "Domande frequenti",
         "title_align": "text-left",
-        "title_size": 4,
+        "title_size": 10,
         "heading_size": 5,
-        "text_size": 5,
+        "text_size": 4,
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
         "width": "wrapper",
