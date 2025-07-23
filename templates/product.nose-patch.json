@@ -1,1 +1,1436 @@
-{"sections":{"ss_product_reviews_tNPmht":{"type":"ss-product-reviews","blocks":{"review_eBnqXr":{"type":"review","settings":{"hide_image":false,"author":"Lori","stars_count":5,"text":"Very pleased with this purchase! It's high-quality, easy to use, and reliable. Highly recommend for its efficiency and convenience."}},"review_mMwhTE":{"type":"review","settings":{"hide_image":false,"author":"Jillian","stars_count":5,"text":"Extremely satisfied with this product! It offers excellent quality and simplicity. I recommend for its effectiveness and user-friendliness"}}},"block_order":["review_eBnqXr","review_mMwhTE"],"name":"SS - Product Reviews","settings":{"reviews_position":"above_title","reviews_meta":"Reviews","reviews_radius":0,"review_padding_vertical":8,"review_padding_horizontal":8,"review_radius":0,"review_border_thickness":0,"image_width":60,"image_radius":8,"image_border_thickness":0,"image_ratio":"square","stars_icon":"shopify:\/\/shop_images\/stella2_82bdfb9a-8fe8-4d12-8a54-821b7cc6065a.png","stars_size":14,"author_custom":false,"author_font":"josefin_sans_n4","author_size":14,"author_size_mobile":14,"author_height":130,"text_custom":false,"text_font":"josefin_sans_n4","text_size":12,"text_size_mobile":12,"text_height":130,"text_mt":4,"arrow_size":24,"arrow_size_mobile":24,"arrow_icon_size":16,"arrow_icon_size_mobile":16,"arrow_border_thickness":0,"arrow_show_desktop":true,"arrow_show_mobile":true,"review_bg_color":"#f3f3f3","review_border_color":"#000000","image_border_color":"#000000","author_color":"#2e413d","text_color":"#2e413d","arrow_color":"#000000","arrow_hover_color":"#000000","arrow_bg_color":"#f3f3f3","arrow_bg_hover_color":"#dddddd","arrow_border_color":"#f3f3f3","arrow_border_hover_color":"#dddddd","stars_color":"#ff4b00","background_color":"#f3f3f3","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":40,"padding_top":0,"padding_bottom":0,"padding_horizontal":0,"padding_horizontal_mobile":0,"border_thickness":0,"lazy":true}},"main":{"type":"product","blocks":{"image_HHyQ7T":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/review5.png","image_max_limit":290,"alignment":"product__block__image--left","padding_bottom":18}},"title":{"type":"title","settings":{"text_size":9,"product_show_cutline":true,"show_rating":true,"show_rating_count":false,"padding_bottom":20}},"text_dEdAhr":{"type":"text","settings":{"title":"<h6>Il primo trattamento nasale in patch con <strong>tecnologia a ioni attivi intelligenti<\/strong> che libera i pori, affina la pelle e previene le imperfezioni, migliorando l’aspetto della pelle fin dalla prima applicazione e continua a perfezionarsi nel tempo.<\/h6>","padding_bottom":16}},"liquid_UmDUVc":{"type":"liquid","settings":{"custom_liquid":"<div id='ss-reviews'><\/div>"}},"icon_txt9aW":{"type":"icon","settings":{"icon_name":"icon-washer","image":"shopify:\/\/shop_images\/Icon_ris._garantito.png","icon_size":22,"icon_color":"#4b4b4b","text":"<p>Risultati VIsibili dalla 1ª applicazione<\/p>","padding_bottom":8}},"icon_abRabA":{"type":"icon","settings":{"icon_name":"icon-lock-shield","icon_size":22,"icon_color":"#4b4b4b","text":"<p>Garanzia rimborso 30 Giorni<\/p>","padding_bottom":8}},"icon_7tgKFJ":{"type":"icon","settings":{"icon_name":"icon-shipment","icon_size":22,"icon_color":"#4b4b4b","text":"<p>Spedizione Rapida 1-2 giorni<\/p>","padding_bottom":8}},"icon_xzXmRP":{"type":"icon","settings":{"icon_name":"icon-award","image":"shopify:\/\/shop_images\/krea_icon2.png","icon_size":22,"icon_color":"#4b4b4b","text":"<p>Designed in Korea<\/p>","padding_bottom":50}},"price":{"type":"price","disabled":true,"settings":{"price_size":5,"padding_bottom":40}},"variants":{"type":"variant-selectors","settings":{"option_size_swatch":34,"option_size_radio":50,"option_space":30,"padding_bottom":30}},"subscriptions":{"type":"subscription","settings":{"subscriptions_enable_selectors":true,"padding_bottom":20}},"quantity":{"type":"quantity","disabled":true,"settings":{"show_quantity":true,"padding_bottom":20}},"sizes-remaining":{"type":"size-remaining","disabled":true,"settings":{"info_page":"","title":"","show_remaining":true,"show_remaining_style":"low","countdown":10,"padding_bottom":0}},"buttons":{"type":"add-buttons","settings":{"enable_payment_button":true,"enable_gift_card_recipient":false,"padding_bottom":0}},"liquid_qgLrkG":{"type":"liquid","name":"Liquid Spedizione","settings":{"custom_liquid":"<div class=\"custom-shipping-container\">\n  <div class=\"pulse-dot\"><\/div>\n  <div class=\"text-block-shipping\">\n    Disponibile – <strong>🚚 SPEDIZIONE GRATUITA<\/strong> – Arrivo previsto tra <span id=\"shipping-date\" class=\"shipping-date\"><\/span>\n  <\/div>\n<\/div>\n\n<style>\n  @import url('https:\/\/fonts.googleapis.com\/css2?family=Figtree:wght@400;600&display=swap');\n\n  .custom-shipping-container {\n    background-color: #F3F3F3 !important;\n    border-radius: 5px;\n    padding: 10px 15px;\n    margin-top: 15px;\n    display: flex !important;\n    align-items: center;\n    font-family: 'Figtree', sans-serif !important;\n    color: #2e413d !important;\n    width: 100%;\n    box-sizing: border-box;\n    gap: 8px;\n  }\n\n  .text-block-shipping {\n    font-size: 14px;\n    line-height: 1.4;\n    text-align: left;\n    color: #2e413d !important;\n    font-family: 'Figtree', sans-serif !important;\n  }\n\n  .text-block-shipping strong,\n  .shipping-date {\n    font-family: 'Figtree', sans-serif !important;\n    font-weight: 600 !important;\n  }\n\n  .pulse-dot {\n    width: 8px;\n    height: 8px;\n    border-radius: 50%;\n    background-color: #FF4B00;\n    animation: pulse 1.5s infinite;\n    flex-shrink: 0;\n  }\n\n  @keyframes pulse {\n    0% { transform: scale(1); opacity: 1; }\n    50% { transform: scale(1.5); opacity: 0.5; }\n    100% { transform: scale(1); opacity: 1; }\n  }\n<\/style>\n\n<script>\n  (function(){\n    const today = new Date();\n    const workingDays = [1,2,3,4,5];\n    let d1 = new Date(today), d2;\n\n    d1.setDate(d1.getDate()+1);\n    while (!workingDays.includes(d1.getDay())) d1.setDate(d1.getDate()+1);\n\n    d2 = new Date(d1);\n    d2.setDate(d1.getDate()+1);\n    while (!workingDays.includes(d2.getDay())) d2.setDate(d2.getDate()+1);\n\n    const daysShort = { lunedì:\"Lun\", martedì:\"Mar\", mercoledì:\"Mer\", giovedì:\"Gio\", venerdì:\"Ven\", sabato:\"Sab\", domenica:\"Dom\" };\n    const monthsShort = { gennaio:\"gen\", febbraio:\"feb\", marzo:\"mar\", aprile:\"apr\", maggio:\"mag\", giugno:\"giu\", luglio:\"lug\", agosto:\"ago\", settembre:\"set\", ottobre:\"ott\", novembre:\"nov\", dicembre:\"dic\" };\n\n    function fmt(d) {\n      const wd = daysShort[d.toLocaleDateString(\"it-IT\",{weekday:\"long\"}).toLowerCase()];\n      const mo = monthsShort[d.toLocaleDateString(\"it-IT\",{month:\"long\"}).toLowerCase()];\n      return `${wd} ${d.getDate()} ${mo}`;\n    }\n\n    let txt = `Domani – ${fmt(d1)}`;\n    if (today.getDay()===5) txt = `Lun – ${fmt(d2)}`;\n    document.getElementById(\"shipping-date\").textContent = txt;\n  })();\n<\/script>"}},"reelup_shoppable_videos_reels_reelup_product_slider_nxjqyY":{"type":"shopify:\/\/apps\/reelup-shoppable-videos-reels\/blocks\/reelup-product-slider\/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b","settings":{"debugging_script":""}},"liquid_mTrrR4":{"type":"liquid","name":"Liquid Low Stock","settings":{"custom_liquid":"<!DOCTYPE html>\n<html lang=\"it\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Stock Countdown<\/title>\n  <style>\n    @import url('https:\/\/fonts.googleapis.com\/css2?family=Figtree:wght@600&display=swap');\n\n    html, body {\n      margin: 0;\n      padding: 0;\n      box-sizing: border-box;\n      font-family: 'Figtree', sans-serif;\n      font-size: 14px;\n      color: #2e413d;\n      overflow-x: hidden;\n    }\n\n    .stock-container {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      gap: 5px;\n      padding: 10px;\n      margin-top: -20px;\n      margin-bottom: 20px;\n      max-width: 100%;\n    }\n\n    .stock-text {\n      font-weight: 600;\n      color: #2e413d;\n    }\n\n    .stock-number {\n      font-weight: 600;\n      color: #FF4B00;\n    }\n\n    .battery {\n      width: 50px;\n      height: 13px;\n      border: 2px solid #FF4B00;\n      border-radius: 2px;\n      position: relative;\n    }\n\n    .battery-level {\n      width: 20%;\n      height: 100%;\n      background-color: #FF4B00;\n      border-radius: 1px;\n      animation: blink 1s infinite;\n    }\n\n    @keyframes blink {\n      0%, 100% { opacity: 1; }\n      50% { opacity: 0.4; }\n    }\n  <\/style>\n<\/head>\n<body>\n\n  <div class=\"stock-container\">\n    <div class=\"stock-text\">Prodotti ancora in stock:<\/div>\n    <div class=\"stock-number\">27<\/div>\n    <div class=\"battery\">\n      <div class=\"battery-level\"><\/div>\n    <\/div>\n  <\/div>\n\n<\/body>\n<\/html>"}},"description_TfYPTU":{"type":"description","settings":{"style":"accordions","enable_description":true,"read_more":true,"icon_description":"","description_expanded":true,"title_1":"Istruzioni per l'utilizzo","icon_name_1":"","raw_content_1":"<p>Utilizzare le patch IonClear™ è semplice e richiede solo pochi secondi, <strong>2 volte a settimana.<\/strong><\/p><p>1. <strong>Detergi<\/strong> accuratamente il viso con un prodotto delicato;<br\/>2. <strong>Asciuga<\/strong> bene la zona nasale;<br\/>3. <strong>Applica la patch<\/strong> sul naso pulito e asciutto;<br\/>4. L<strong>asciala agire<\/strong> per almeno<strong> 6–8 ore<\/strong> (ideale: durante la notte);<br\/>5. <strong>Rimuovila<\/strong> delicatamente. Non serve risciacquare.<\/p><p><strong>Una box contiene 8 patch.<\/strong><\/p><p>Il trattamento è sempre lo stesso, ma ogni fase lavora su un livello diverso della pelle.<br\/><br\/><br\/>Una box contiene 8 patch.<br\/><br\/>Per ottenere risultati visibili e duraturi, consigliamo un uso costante con <strong>2 applicazioni a settimana<\/strong>, su pelle pulita e asciutta.<\/p>","title_2":"Lista Ingredienti","icon_name_2":"","raw_content_2":"<p>Ogni patch IonClear™ è formulata con una combinazione esclusiva di attivi ad alta efficacia:<\/p><ul><li>Idrocolloidi di grado medicale<\/li><li>Tecnologia ionica a rilascio intelligente (IonClear™)<\/li><li>Estratti fermentati di tè verde e acqua di riso<\/li><li>Acido salicilico incapsulato (microdosato)<\/li><li>Centella asiatica<\/li><li>Niacinamide<\/li><li>Senza profumi, alcool, oli essenziali o parabeni<\/li><\/ul>","title_3":"Risultati dei clienti","icon_name_3":"","raw_content_3":"<p>Dopo il primo mese di utilizzo (1 box):<\/p><p>✔ <strong>L’87%<\/strong> dei clienti nota pori visibilmente meno evidenti;<br\/><br\/>✔ <strong>Il 91%<\/strong> riferisce una pelle più liscia e compatta al tatto;<br\/><br\/>✔ <strong>Il 78%<\/strong> afferma di non aver più bisogno di schiacciare punti neri.<\/p><p><strong>Dopo<\/strong> <strong>3 mesi<\/strong>:<\/p><p>🔥 I pori dilatati diventano invisibili;<br\/><br\/>🔥 La grana della pelle si uniforma visibilmente;<br\/><br\/>🔥 La zona naso è così liscia che il fondotinta (o il correttore) non serve più;<br\/><br\/>🔥 Chi prima usava filtri... ora non ne ha più bisogno.<\/p><p>IonClear™ è stato testato su uomini e donne dai 18 ai 45 anni.<\/p><p>Fonte: test su 7.854 clienti reali che hanno utilizzato IonClear™ per 90 giorni consecutivi.<\/p>","title_4":"","icon_name_4":"","raw_content_4":"","title_5":"","icon_name_5":"","raw_content_5":"","padding_bottom":20}},"complimentary_EXEUUL":{"type":"complimentary","settings":{"title":"Il kit perfetto per iniziare","complimentary_list_limit":1,"padding_bottom":20}},"description":{"type":"description","disabled":true,"settings":{"style":"none","enable_description":true,"read_more":false,"icon_description":"","description_expanded":true,"title_1":"Information","icon_name_1":"","raw_content_1":"<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>","title_2":"Details","icon_name_2":"","raw_content_2":"<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>","title_3":"","icon_name_3":"","raw_content_3":"","title_4":"","icon_name_4":"","raw_content_4":"","title_5":"","icon_name_5":"","raw_content_5":"","padding_bottom":20}},"upsell":{"type":"upsell","disabled":true,"settings":{"title":"Buy it with","upsell_type":"product_single","product":"","upsell_product_list":[],"upsell_list_limit":1,"padding_bottom":20}}},"block_order":["image_HHyQ7T","title","text_dEdAhr","liquid_UmDUVc","icon_txt9aW","icon_abRabA","icon_7tgKFJ","icon_xzXmRP","price","variants","subscriptions","quantity","sizes-remaining","buttons","liquid_qgLrkG","reelup_shoppable_videos_reels_reelup_product_slider_nxjqyY","liquid_mTrrR4","description_TfYPTU","complimentary_EXEUUL","description","upsell"],"settings":{"layout":"thumbnails-below@slides","image_width":"wide","image_spacing":10,"align":"left","bg":"palette--light bg--neutral","mobile_layout":"thumbs","enable_video_looping":true,"zoom_enable":true,"alt_text_enable":true,"alt_text_icon":"icon-ruler","product_breadcrumbs_enable":false,"product_breadcrumbs_list":[],"width":"wrapper","padding_top":24,"padding_bottom":36}},"section_double_Cgp9B3":{"type":"section-double","blocks":{"text_tKjFpL":{"type":"text","settings":{"kicker":"","title":"Come funziona","text":"<p>Ti basta applicare la patch sulla zona naso pulita e asciutta, prima di andare a dormire.<br\/><\/p><p><strong>In 6–8 ore<\/strong>, gli idrocolloidi assorbono il sebo in profondità, mentre gli ioni attivi rilasciano gli ingredienti purificanti dove servono.<br\/><br\/>Al mattino, la pelle è visibilmente più pulita, liscia e opaca.<br\/><br\/>Zero irritazioni. Zero sforzo. Solo risultati.<br\/><br\/><\/p>","font_size":5,"text_columns":1,"align_text":"text-left","button_text":"","button_url":"","button_color":"btn--neutral","button_style":"btn-text-thick-line","text_color":"text--neutral","bg_color":"#f3ebe2"}},"image_3e4iCf":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/per_sezione.jpg","overlay_opacity":0,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"","title":"","richtext":"","text_align":"align--middle-center","text_color":"text--white","link_text":"","link":"","button_color":"btn--white","button_style":"btn"}}},"block_order":["text_tKjFpL","image_3e4iCf"],"settings":{"height":"use_screen_three_quarters","brick_gutter":0,"borders":false,"bg_color":"","preload_image":false,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_icons_nzT4mj":{"type":"section-icons","blocks":{"icon_block_zC8ry8":{"type":"icon_block","settings":{"icon_name":"icon-shipment-world","icon_alt":"shopify:\/\/shop_images\/patch.png","icon_color":"#aaaaaa","title":"Applica prima di dormire","text":"<p>Una sola patch, zero routine complicate. Si applica in 10 secondi.<\/p>","link_text":"","link_url":""}},"icon_block_r4iWdG":{"type":"icon_block","settings":{"icon_name":"icon-basket-return","icon_alt":"shopify:\/\/shop_images\/icona_1.png","icon_color":"#aaaaaa","title":"Agisce durante la notte","text":"<p>In 6-8 ore gli <strong>idrocolloidi<\/strong> assorbono il sebo, gli <strong>ioni attivi<\/strong> purificano in profondità.<\/p>","link_text":"","link_url":""}},"icon_block_zWd6Gt":{"type":"icon_block","settings":{"icon_name":"icon-phone","icon_alt":"shopify:\/\/shop_images\/Progetto_senza_titolo_37.png","icon_color":"#aaaaaa","title":"Risultato al risveglio","text":"<p>Una sensazione diversa, una pelle più pulita. Il cambiamento cresce con ogni applicazione.<\/p>","link_text":"","link_url":""}}},"block_order":["icon_block_zC8ry8","icon_block_r4iWdG","icon_block_zWd6Gt"],"settings":{"title":"","bg":"palette--light bg--neutral","icons_size":30,"icon_alignment":"icon--top","layout":"grid--stacked","align_text":"text-center","width":"wrapper","padding_top":36,"padding_bottom":80}},"section_richtext_RwTUGb":{"type":"section-richtext","blocks":{"heading_8Hxcpz":{"type":"heading","settings":{"heading":"IonClear™ è il 1° trattamento nasale intelligente.","text_size":10}},"spacer_kkyRPw":{"type":"spacer","settings":{"spacer_padding":40,"show_line":false}},"kicker_KdP38A":{"type":"kicker","settings":{"kicker":"+10.000 clienti soddisfatti","enable_line":false,"text_size":4}}},"block_order":["heading_8Hxcpz","spacer_kkyRPw","kicker_KdP38A"],"settings":{"align_text":"text-center","text_color":"text--neutral","bg":"palette--light bg--accent","content_width":2000,"width":"wrapper","padding_top":90,"padding_bottom":90}},"section_columns_w6HeJi":{"type":"section-columns","blocks":{"text_block_rjwHMC":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/IonClearOFF.gif","shape_class":"","title":"Dimentica i tuoi pori","text":"<ul><li><strong>Risultati visibili<\/strong> dalla prima applicazione.<\/li><li>Ogni patch <strong>affina, purifica e migliora<\/strong> la grana della pelle.<\/li><li>Con un uso costante,<strong> i risultati<\/strong> si stabilizzano e <strong>durano nel tempo<\/strong>.<br\/><br\/>Puoi ricevere fino a: 3 box, spedizione gratuita e Manuale Bonus in regalo.<\/li><\/ul>","button_label":"","button_link":"","button_color":"btn--neutral","button_style":"btn--soft","enable_video":false,"video_link":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_button_color":"text--white"}},"text_block_nfKJ3d":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/IonClear.gif","shape_class":"","title":"Tecnologia IonHydro™","text":"<p>All’interno di ogni patch IonClear™ è attivata una t<strong>ecnologia a rilascio mirato<\/strong> che libera ioni attivi <strong>intelligenti<\/strong>.<\/p><p>Queste micro-cariche penetrano nei pori e si attivano solo<strong> in presenza di impurità<\/strong> e sebo in eccesso, aiutando a<strong> scioglierli e rimuoverli in profondità<\/strong> — senza stressare la pelle.<\/p>","button_label":"","button_link":"","button_color":"btn--neutral","button_style":"btn--soft","enable_video":false,"video_link":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_button_color":"text--white"}},"text_block_8EHkYe":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/maneg2.jpg","shape_class":"","title":"hai già provato di tutto?","text":"<p>Spremi, copri, applichi il solito cerotto o la maschera che si \"strappa via\", va via qualcosa, ma poi torna tutto come prima.<\/p><p>Il problema NON è la tua pelle, ma è il <strong>METODO<\/strong> che<strong> NON FUNZIONA!<\/strong><\/p>","button_label":"","button_link":"","button_color":"btn--neutral","button_style":"btn--soft","enable_video":false,"video_link":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_button_color":"text--white"}}},"block_order":["text_block_rjwHMC","text_block_nfKJ3d","text_block_8EHkYe"],"settings":{"title":"Non un prodotto in più. L’ultimo.","bg":"palette--light bg--neutral","align_text":"text-center","scale_image":true,"wh_ratio":1,"grid_large":3,"grid_medium":3,"grid_mobile":1.2,"progress_bar_mobile":true,"width":"wrapper","padding_top":90,"padding_bottom":36}},"ss_comparison_table_6_FBRDyT":{"type":"ss-comparison-table-6","blocks":{"list_item_wr9hEk":{"type":"list_item","settings":{"text":"COSTA MENO DI UNA PULIZIA VISO"}},"list_item_KTrAXx":{"type":"list_item","settings":{"text":"DURA 3 MESI, NON 3 GIORNI"}},"list_item_mmCVEe":{"type":"list_item","settings":{"text":"NIENTE APPUNTAMENTI, LO FAI DA CASA"}},"list_item_tjqDY9":{"type":"list_item","settings":{"text":"RISULTATO MIGLIORE"}},"table_row_Ln9EpA":{"type":"table_row","settings":{"row_heading":"COSTO 1 SEDUTA","first_column":"€24 (per Box)","first_column_icon":"none","second_column":"€50 – €80","second_column_icon":"none","third_column":"","third_column_icon":"none","four_column":"","four_column_icon":"none"}},"table_row_6TkKfU":{"type":"table_row","settings":{"row_heading":"FREQUENZA","first_column":"2 patch a settimana","first_column_icon":"none","second_column":"1 al mese","second_column_icon":"none","third_column":"","third_column_icon":"none","four_column":"","four_column_icon":"none"}},"table_row_Lk8NDE":{"type":"table_row","settings":{"row_heading":"COSTO 3 MESI","first_column":"€83,76 (3 box)","first_column_icon":"none","second_column":"€150 - €240","second_column_icon":"none","third_column":"","third_column_icon":"none","four_column":"","four_column_icon":"none"}},"table_row_i7QWGW":{"type":"table_row","settings":{"row_heading":"RISPARMIO STIMATO","first_column":"-€156","first_column_icon":"none","second_column":"-","second_column_icon":"none","third_column":"","third_column_icon":"none","four_column":"","four_column_icon":"none"}},"table_row_R3tfWN":{"type":"table_row","disabled":true,"settings":{"row_heading":"3rd Party Tested","first_column":"","first_column_icon":"check","second_column":"","second_column_icon":"cross","third_column":"","third_column_icon":"none","four_column":"","four_column_icon":"none"}},"table_row_6DtURx":{"type":"table_row","disabled":true,"settings":{"row_heading":"Delicious Taste","first_column":"","first_column_icon":"check","second_column":"","second_column_icon":"cross","third_column":"","third_column_icon":"none","four_column":"","four_column_icon":"none"}}},"block_order":["list_item_wr9hEk","list_item_KTrAXx","list_item_mmCVEe","list_item_tjqDY9","table_row_Ln9EpA","table_row_6TkKfU","table_row_Lk8NDE","table_row_i7QWGW","table_row_R3tfWN","table_row_6DtURx"],"settings":{"body_gap":32,"body_gap_mobile":40,"content_horizontal_align":"start","content_horizontal_align_mobile":"center","heading":"<p>Seduta Estetica <strong>vs IonClear™<\/strong><\/p>","heading_custom":true,"heading_font":"figtree_n6","heading_size":52,"heading_size_mobile":32,"heading_height":120,"text":"<p>IonClear™ ti offre risultati visibili, senza appuntamenti né spese esagerate — <br\/>e a una frazione del costo di una seduta estetica.<\/p>","text_custom":true,"text_font":"figtree_n4","text_size":16,"text_size_mobile":16,"text_height":150,"text_mt":16,"list_mt":50,"list_mt_mobile":32,"list_gap":30,"list_gap_mobile":30,"list_hide_mobile":true,"icon_size":28,"icon_size_mobile":28,"icon_margin_right":16,"list_text_custom":true,"list_text_font":"figtree_n4","list_text_size":14,"list_text_size_mobile":18,"list_text_height":150,"button":"","button_url":"","button_custom":false,"button_font":"josefin_sans_n4","button_size":18,"button_size_mobile":18,"button_height":100,"button_width":305,"button_mt":50,"button_mt_mobile":32,"button_padding_vertical":16,"button_padding_vertical_mobile":16,"button_padding_horizontal":48,"button_padding_horizontal_mobile":48,"button_radius":100,"button_border_thickness":0,"button_style":"non_outline","button_position_mobile":"bottom","table_columns":2,"table_mt_mobile":32,"table_column_active":"1","table_radius":0,"table_border_thickness":1,"table_heading_image_size":100,"table_heading_image_size_mobile":80,"first_heading":"IonClear™","first_heading_image":"shopify:\/\/shop_images\/icona_patch_bianca2.png","second_heading":"Seduta Estetica","third_heading":"Third","four_heading":"Fourth","table_heading_custom":true,"table_heading_font":"figtree_n6","table_heading_size":20,"table_heading_size_mobile":16,"table_heading_height":100,"table_heading_align":"center","table_heading_padding_horizontal":18,"table_heading_padding_horizontal_mobile":18,"table_heading_padding_vertical":18,"table_heading_padding_vertical_mobile":18,"table_row_padding_horizontal":14,"table_row_padding_horizontal_mobile":14,"table_row_padding_vertical":16,"table_row_padding_vertical_mobile":16,"table_row_heading_width_mobile":66,"table_row_heading_custom":true,"table_row_heading_font":"figtree_n6","table_row_heading_size":14,"table_row_heading_size_mobile":12,"table_row_heading_height":130,"table_row_heading_align":"left","table_row_text_custom":true,"table_row_text_font":"figtree_n4","table_row_text_size":20,"table_row_text_size_mobile":14,"table_row_text_height":130,"table_row_text_align":"center","table_row_image_size":24,"table_row_image_size_mobile":24,"heading_color":"#2e413d","text_color":"#2e413d","icon_color":"#2e413d","list_text_color":"#2e413d","button_color":"#ffffff","button_hover_color":"#ffffff","button_bg_color":"#16142b","button_bg_hover_color":"#16142b","button_border_color":"#2e413d","button_border_hover_color":"#2e413d","table_border_color":"#334641","table_active_border_color":"#b9b9b9","table_heading_color":"#2e413d","table_heading_active_color":"#ffffff","table_heading_bg_active_color":"#2e413d","table_column_active_bg_color":"#2e413d","table_row_heading_color":"#2e413d","table_row_text_color":"#2e413d","table_row_active_text_color":"#ffffff","background_color":"#fcfaf7","background_gradient":"","border_color":"#000000","margin_top":40,"margin_bottom":32,"padding_top":72,"padding_bottom":72,"padding_horizontal":5,"padding_horizontal_mobile":1.5,"full_width":false,"content_width":130,"border_thickness":0,"lazy":true}},"section_richtext_LmwPfq":{"type":"section-richtext","blocks":{"kicker_CLq3RA":{"type":"kicker","disabled":true,"settings":{"kicker":"Introducing","enable_line":true,"text_size":4}},"heading_h8NaYE":{"type":"heading","settings":{"heading":"Questa non è una maschera che tira via. È il risultato visibile dopo il trattamento IonClear™ . Vuoi questo “dopo”? Inizia oggi.","text_size":12}},"text_fHYdjW":{"type":"text","disabled":true,"settings":{"text":"<h1>Questa non è una maschera che tira via.<br\/>È il risultato visibile dopo il trattamento IonClear™ in 3 fasi.<br\/>Vuoi questo “dopo”? Inizia oggi.<\/h1>","text_size":4,"text_columns":1}},"button_Pp3jiT":{"type":"button","disabled":true,"settings":{"link_text_1":"Shop all","link_1":"shopify:\/\/collections\/all","button_size_1":"btn--medium","button_style_1":"btn-text-thick-line","button_color_1":"btn--neutral","link_text_2":"","link_2":"","button_size_2":"btn--medium","button_style_2":"btn-text-thick-line","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--medium","button_style_3":"btn-text-thick-line","button_color_3":"btn--neutral"}}},"block_order":["kicker_CLq3RA","heading_h8NaYE","text_fHYdjW","button_Pp3jiT"],"settings":{"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":36,"padding_bottom":46}},"section_before_after_98ENrJ":{"type":"section-before-after","settings":{"after_image":"shopify:\/\/shop_images\/cerotto_naso1.jpg","before_image":"shopify:\/\/shop_images\/nose_B_A2.jpg","orientation":"horizontal","handle_color":"#ffffff","start_position":50,"width":"wrapper","padding_top":0,"padding_bottom":120}},"image-with-text":{"type":"section-double","blocks":{"image":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/ANIM_2b1f9167-c403-4cc2-848a-e82554a21ead.gif","overlay_opacity":0,"overlay_color":"#000000","enable_overlay_text":false,"kicker":"","title":"","richtext":"","text_align":"align--middle-center","text_color":"text--white","link_text":"","link":"","button_color":"btn--white","button_style":"btn"}},"text":{"type":"text","settings":{"kicker":"Al mattino la differenza si vede.","title":"","text":"<p>IonClear™ è il trattamento nasale intelligente che lavora per te durante la notte.<br\/><br\/>Grazie alla tecnologia ionica e alla base di idrocolloidi, assorbe l’eccesso di sebo e libera i pori in modo delicato ma efficace.<br\/><br\/>Ti basta applicarlo prima di dormire: in <strong>6–8 ore<\/strong> le impurità si trasferiscono sulla patch e la pelle appare visibilmente più pulita, liscia e uniforme.<\/p><p>Zero irritazioni, zero rebound.<br\/><br\/>Solo un naso finalmente più pulito, senza schiacciarlo.<\/p>","font_size":5,"text_columns":1,"align_text":"text-left","button_text":"","button_url":"","button_color":"btn--neutral","button_style":"btn-text-thick-line","text_color":"text--neutral","bg_color":""}}},"block_order":["image","text"],"disabled":true,"settings":{"height":"use_image","brick_gutter":0,"borders":false,"bg_color":"","preload_image":false,"width":"wrapper","padding_top":36,"padding_bottom":0}},"related":{"type":"related","disabled":true,"settings":{"heading":"You might also like","bg":"palette--light bg--neutral","grid_large":4,"grid_medium":3,"grid_small":1.2,"related_products_enable":true,"limit":6,"product_recommendations_heading":"Related products","show_recently_viewed":true,"product_recently_limit":6,"product_recently_minimum":4,"product_recently_heading":"Recently viewed","width":"wrapper","padding_top":36,"padding_bottom":36}},"ss_testimonial_4_GqKCwy":{"type":"ss-testimonial-4","blocks":{"slide_3QTPCF":{"type":"slide","settings":{"stars_count":5,"text":"“Non pensavo si potesse vedere una differenza già dopo la seconda patch. Ora continuo, voglio vedere dove arrivo.”","author":"Chiara L.","city":"30 anni"}},"slide_edb4cr":{"type":"slide","settings":{"stars_count":5,"text":"“Ho sempre avuto punti neri e pori super evidenti. Ne ho provate mille. Questo è l’unico metodo che mi ha dato un cambiamento che dura. La differenza si vede davvero!”","author":"Silvia B.","city":"24 anni"}},"slide_TaYnqb":{"type":"slide","settings":{"stars_count":5,"text":"“Non è il solito cerotto. Non mi ha irritato, non tira via la pelle. Dopo 3 settimane i pori sono molto, molto meno visibili. E lo metto prima di dormire: fine”","author":"Ginevra T.","city":"34 anni"}},"slide_zd4DET":{"type":"slide","settings":{"stars_count":5,"text":"“Lo uso da 1 mese. Lavora davvero bene. Il naso è più uniforme e armonico”","author":"Carola P.","city":"27 anni"}},"slide_TbVxzd":{"type":"slide","settings":{"stars_count":5,"text":"“A distanza di 3 mesi mi guardo allo specchio e noto la differenza. Non è solo “pulito”, è più uniforme, per niente poroso. E non mi serve nemmeno truccarmi come prima.”","author":"Fabiana A.","city":"26 anni"}}},"block_order":["slide_3QTPCF","slide_edb4cr","slide_TaYnqb","slide_zd4DET","slide_TbVxzd"],"disabled":true,"settings":{"stars_count":5,"stars_size":16,"stars_align":"center","stars_align_card":"center","text":"<p>4,95\/5 (+10,000 CLIENTI SODDISFATTI)<\/p>","text_custom":true,"text_font":"figtree_n5","text_size":14,"text_size_mobile":12,"text_height":130,"text_align":"center","text_mt":12,"heading":"Parlano i risultati","heading_custom":true,"heading_font":"figtree_n6","heading_size":50,"heading_size_mobile":36,"heading_height":130,"heading_align":"center","heading_mt":20,"slider_width":80,"slider_view":3,"slider_view_mobile":1.5,"slider_gap":20,"slider_gap_mobile":20,"slider_mt":36,"card_padding_vertical":60,"card_padding_vertical_mobile":30,"card_padding_horizontal":40,"card_padding_horizontal_mobile":20,"card_radius":0,"card_border_thickness":1,"card_text_custom":false,"card_text_font":"josefin_sans_n4","card_text_size":16,"card_text_size_mobile":16,"card_text_height":130,"card_text_align":"center","card_text_mt":20,"card_author_custom":false,"card_author_font":"josefin_sans_n4","card_author_size":14,"card_author_size_mobile":14,"card_author_height":130,"card_author_align":"center","card_author_mt":20,"card_city_custom":false,"card_city_font":"josefin_sans_n4","card_city_size":14,"card_city_size_mobile":14,"card_city_height":130,"card_city_align":"center","card_city_mt":12,"arrow_size":50,"arrow_size_mobile":50,"arrow_icon_size":28,"arrow_icon_size_mobile":28,"arrow_border_thickness":0,"arrow_show_desktop":true,"arrow_show_mobile":false,"dots_size":12,"dots_size_mobile":12,"dots_show_desktop":false,"dots_show_mobile":false,"stars_color":"#d2815f","text_color":"#2e413d","heading_color":"#2e413d","card_bg_color":"#fcf9f7","card_border_color":"#b9b9b9","card_text_color":"#2e413d","card_author_color":"#2e413d","card_city_color":"#2e413d","arrow_color":"#2e413d","arrow_hover_color":"#fcfaf7","arrow_bg_color":"#f8f0e7","arrow_bg_hover_color":"#d2815f","arrow_border_color":"#2e413d","arrow_border_hover_color":"#fcfaf7","dots_color":"#2e413d","background_color":"#fcfaf7","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":0,"padding_top":80,"padding_bottom":80,"padding_horizontal":5,"padding_horizontal_mobile":1.5,"full_width":true,"content_width":120,"border_thickness":0}},"section_richtext_mRwbfN":{"type":"section-richtext","blocks":{"image_EezR9z":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/5stelle.png","image_max_limit":90,"link":""}},"kicker_PCmJaV":{"type":"kicker","settings":{"kicker":"4.95\/5 (+10.000 clienti soddisfatti)","enable_line":false,"text_size":2}},"heading_iWqXGr":{"type":"heading","settings":{"heading":"Parlano i Risultati","text_size":11}}},"block_order":["image_EezR9z","kicker_PCmJaV","heading_iWqXGr"],"name":"Rich text","settings":{"align_text":"text-center","text_color":"text--neutral","bg":"palette--light bg--accent","content_width":2000,"width":"wrapper","padding_top":56,"padding_bottom":0}},"ss_testimonial_10_3JKjwm":{"type":"ss-testimonial-10","blocks":{"testimonial_AaXUjb":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/1_d35b3fea-40be-4b3d-973a-9ee073faf4a6.jpg","stars_count":5,"text":"<p>\"Non so come spiegarlo, ma il naso sembra proprio più pulito. Non me lo aspettavo così.\"<\/p>","author":"- MARTA, 29 ANNI"}},"testimonial_KGehyA":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/6_02267374-3764-4d3a-a2e8-6d9bed5a3392.jpg","stars_count":5,"text":"<p>\"Obbligato dalla mia ragazza ad acquistarlo. Devo dire che funziona.. meglio tardi che mai\"<\/p>","author":"- MATTEO, 27 ANNI"}},"testimonial_exAB6T":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/3_82e37cd0-39c5-444f-ad59-8d2ed6d85bf5.jpg","stars_count":5,"text":"<p>\"Mi ero seriamente rassegnata a conviverci… invece guardate come la situazione è migliorata tantissimo!\"<\/p>","author":"- ALESSIA, 25 ANNI"}},"testimonial_ayMWEg":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/4_ec9506b2-73a5-4bc0-ae9e-4e2327e0b23b.jpg","stars_count":5,"text":"<p>\"Funziona anche se sei pigra come me. Applichi e via. Io lo metto prima di dormire. L'unico prodotto che ho provato che fa qualcosa di serio!\"<br\/><br\/><\/p>","author":"- CLAUDIA, 27 ANNI"}},"testimonial_HR47wt":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/5_4cac9092-ab90-41e4-a70d-4a48372cc3a6.jpg","stars_count":5,"text":"<p>\"All’inizio ero scettico, ma si vede proprio. Il naso è più pulito e meno lucido.\"<\/p>","author":"- FILIPPO, 26 ANNI"}},"testimonial_TQzYwr":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/2_27ba531d-144b-4069-9328-0fa8686d56ca.jpg","stars_count":5,"text":"<p>\"Ottimo. Lo metto due volte a settimana e mi trovo benissimo. Semplice e fa il suo lavoro.\"<\/p>","author":"- VALENTINA, 35 ANNI"}}},"block_order":["testimonial_AaXUjb","testimonial_KGehyA","testimonial_exAB6T","testimonial_ayMWEg","testimonial_HR47wt","testimonial_TQzYwr"],"name":"SS - Testimonials #10","settings":{"body_padding_vertical":50,"body_padding_vertical_mobile":16,"body_padding_horizontal":50,"body_padding_horizontal_mobile":16,"body_radius":0,"body_border_thickness":0,"heading":"","heading_custom":false,"heading_font":"josefin_sans_n4","heading_size":40,"heading_size_mobile":24,"heading_height":150,"heading_align":"left","heading_align_mobile":"left","sub_heading":"","sub_heading_custom":false,"sub_heading_font":"josefin_sans_n4","sub_heading_size":18,"sub_heading_size_mobile":14,"sub_heading_height":150,"slider_view":3.7,"slider_view_mobile":1.2,"slider_gap":36,"slider_gap_mobile":20,"slider_mt":20,"image_radius":0,"image_border_thickness":0,"image_ratio":"square","image_ratio_mobile":"square","stars_icon":"shopify:\/\/shop_images\/stella2.png","stars_size":16,"stars_mt":24,"stars_align":"start","stars_align_mobile":"start","text_custom":false,"text_font":"josefin_sans_n4","text_size":14,"text_size_mobile":14,"text_height":130,"text_mt":12,"text_align":"left","text_align_mobile":"left","author_custom":true,"author_font":"figtree_n5","author_size":14,"author_size_mobile":14,"author_height":130,"author_mt":20,"author_align":"left","author_align_mobile":"left","arrow_size":50,"arrow_size_mobile":42,"arrow_icon_size":40,"arrow_icon_size_mobile":28,"arrow_border_thickness":0,"arrow_show_desktop":true,"arrow_show_mobile":false,"dots_size":12,"dots_size_mobile":12,"dots_mt":40,"dots_show_desktop":false,"dots_show_mobile":false,"body_bg_color":"#fcfaf7","body_border_color":"#000000","stars_color":"#756e67","text_color":"#334541","author_color":"#334541","arrow_color":"#756e67","arrow_hover_color":"#ffffff","arrow_bg_color":"#ffffff","arrow_bg_hover_color":"#756e67","arrow_border_color":"#756e67","arrow_border_hover_color":"#756e67","dots_color":"#334541","heading_color":"#334541","sub_heading_color":"#334541","background_color":"#fcfaf7","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":0,"padding_top":0,"padding_bottom":44,"padding_horizontal":5,"padding_horizontal_mobile":0,"full_width":true,"content_width":120,"border_thickness":0,"lazy":true}},"section_faq_U4JdWF":{"type":"section-faq","blocks":{"text_7mUWaM":{"type":"text","settings":{"title":"Cosa sono gli idrocolloidi e gli ioni attivi?","content":"<p>Gli idrocolloidi sono materiali dermatologici avanzati che assorbono sebo e impurità dai pori in modo profondo ma delicato.<br\/><br\/>Gli ioni attivi intelligenti, ispirati alla skincare coreana, stimolano il rilascio mirato degli ingredienti purificanti solo dove la pelle ne ha bisogno.<\/p><p>IonClear™ unisce due tecnologie nate dalla cosmetica funzionale coreana per offrirti un trattamento efficace, progressivo e visibile — già dalla prima applicazione.<\/p>"}},"text_43NgFF":{"type":"text","settings":{"title":"Per quanto tempo devo usare IonClear™?","content":"<p>Puoi iniziare a vedere miglioramenti già dalla prima applicazione.<br\/><br\/>Consigliamo di utilizzare <strong>2 patch a settimana<\/strong> in modo costante per ottimizzare i risultati.<br\/><br\/>1 box è sufficiente per iniziare il cambiamento, ma con 2 o 3 box consecutivi potrai consolidare i miglioramenti per lungo tempo.<\/p>"}},"text_GMNQcD":{"type":"text","settings":{"title":"Quante patch ci sono in ogni box?","content":"<p>Ogni box contiene 8 patch monouso. Bastano per 1 mese di trattamento (2 patch a settimana).<\/p>"}},"text_g7r7mp":{"type":"text","settings":{"title":"È adatto anche a pelli sensibili?","content":"<p>Sì. La formula è priva di profumi, alcool e agenti irritanti. È dermatologicamente testata ed efficace anche su pelli reattive o facilmente arrossabili.<\/p>"}},"text_kD6Hkz":{"type":"text","settings":{"title":"Quando vedrò i primi risultati?","content":"<p>L'87% dei clienti nota una pelle più pulita e liscia già dopo la prima settimana. I risultati si stabilizzano e migliorano dopo ogni applicazione.<\/p>"}},"text_dGa3Dz":{"type":"text","settings":{"title":"I risultati durano nel tempo?","content":"<p>Sì, fino a 20 settimane con un trattamento di 2-3 mesi. I pori restano affinati e la pelle più equilibrata anche dopo.<\/p>"}},"text_TiwqKq":{"type":"text","settings":{"title":"Quanto costa la spedizione?","content":"<p>La spedizione è gratuita per i bundle da 2 o 3 box. Per gli ordini singoli, il costo è di €9,99.<\/p>"}},"text_bq6CzV":{"type":"text","settings":{"title":"In quanto tempo riceverò il mio ordine?","content":"<p>Il nostro metodo di spedizione Express prevede la consegna del tuo ordine in <strong>1–2 giorni lavorativi.<\/strong><\/p>"}}},"block_order":["text_7mUWaM","text_43NgFF","text_GMNQcD","text_g7r7mp","text_kD6Hkz","text_dGa3Dz","text_TiwqKq","text_bq6CzV"],"settings":{"title":"Domande frequenti","title_align":"text-left","title_size":4,"heading_size":5,"text_size":5,"text_color":"text--neutral","bg":"palette--light bg--neutral","width":"wrapper","padding_top":76,"padding_bottom":36}},"section_collection_slider_RqDyp9":{"type":"section-collection-slider","name":"Product slider","settings":{"collection":"tuitti-i-prodotti-2","product_limit":12,"title":"","align_text":"title-center","progress_bar":"mobile","grid_large":4,"grid_medium":3,"grid_mobile":1.2,"bg":"palette--light bg--neutral","width":"wrapper","padding_top":36,"padding_bottom":36}}},"order":["ss_product_reviews_tNPmht","main","section_double_Cgp9B3","section_icons_nzT4mj","section_richtext_RwTUGb","section_columns_w6HeJi","ss_comparison_table_6_FBRDyT","section_richtext_LmwPfq","section_before_after_98ENrJ","image-with-text","related","ss_testimonial_4_GqKCwy","section_richtext_mRwbfN","ss_testimonial_10_3JKjwm","section_faq_U4JdWF","section_collection_slider_RqDyp9"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ss_product_reviews_tNPmht": {
+      "type": "ss-product-reviews",
+      "blocks": {
+        "review_eBnqXr": {
+          "type": "review",
+          "settings": {
+            "hide_image": false,
+            "author": "Lori",
+            "stars_count": 5,
+            "text": "Very pleased with this purchase! It's high-quality, easy to use, and reliable. Highly recommend for its efficiency and convenience."
+          }
+        },
+        "review_mMwhTE": {
+          "type": "review",
+          "settings": {
+            "hide_image": false,
+            "author": "Jillian",
+            "stars_count": 5,
+            "text": "Extremely satisfied with this product! It offers excellent quality and simplicity. I recommend for its effectiveness and user-friendliness"
+          }
+        }
+      },
+      "block_order": [
+        "review_eBnqXr",
+        "review_mMwhTE"
+      ],
+      "name": "SS - Product Reviews",
+      "settings": {
+        "reviews_position": "above_title",
+        "reviews_meta": "Reviews",
+        "reviews_radius": 0,
+        "review_padding_vertical": 8,
+        "review_padding_horizontal": 8,
+        "review_radius": 0,
+        "review_border_thickness": 0,
+        "image_width": 60,
+        "image_radius": 8,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "stars_size": 14,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 12,
+        "text_size_mobile": 12,
+        "text_height": 130,
+        "text_mt": 4,
+        "arrow_size": 24,
+        "arrow_size_mobile": 24,
+        "arrow_icon_size": 16,
+        "arrow_icon_size_mobile": 16,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "review_bg_color": "#f3f3f3",
+        "review_border_color": "#000000",
+        "image_border_color": "#000000",
+        "author_color": "#2e413d",
+        "text_color": "#2e413d",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#f3f3f3",
+        "arrow_bg_hover_color": "#dddddd",
+        "arrow_border_color": "#f3f3f3",
+        "arrow_border_hover_color": "#dddddd",
+        "stars_color": "#ff4b00",
+        "background_color": "#f3f3f3",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "main": {
+      "type": "product",
+      "blocks": {
+        "image_HHyQ7T": {
+          "type": "image",
+          "settings": {
+            "image_max_limit": 290,
+            "alignment": "product__block__image--left",
+            "padding_bottom": 18
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": 9,
+            "product_show_cutline": true,
+            "show_rating": true,
+            "show_rating_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "text_dEdAhr": {
+          "type": "text",
+          "settings": {
+            "title": "<h6>Il primo trattamento nasale in patch con <strong>tecnologia a ioni attivi intelligenti</strong> che libera i pori, affina la pelle e previene le imperfezioni, migliorando l’aspetto della pelle fin dalla prima applicazione e continua a perfezionarsi nel tempo.</h6>",
+            "padding_bottom": 16
+          }
+        },
+        "liquid_UmDUVc": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": "<div id='ss-reviews'></div>"
+          }
+        },
+        "icon_txt9aW": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-washer",
+            "icon_size": 22,
+            "icon_color": "#4b4b4b",
+            "text": "<p>Risultati VIsibili dalla 1ª applicazione</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_abRabA": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-lock-shield",
+            "icon_size": 22,
+            "icon_color": "#4b4b4b",
+            "text": "<p>Garanzia rimborso 30 Giorni</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_7tgKFJ": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-shipment",
+            "icon_size": 22,
+            "icon_color": "#4b4b4b",
+            "text": "<p>Spedizione Rapida 1-2 giorni</p>",
+            "padding_bottom": 8
+          }
+        },
+        "icon_xzXmRP": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_size": 22,
+            "icon_color": "#4b4b4b",
+            "text": "<p>Designed in Korea</p>",
+            "padding_bottom": 50
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "price_size": 5,
+            "padding_bottom": 40
+          }
+        },
+        "variants": {
+          "type": "variant-selectors",
+          "settings": {
+            "option_size_swatch": 34,
+            "option_size_radio": 50,
+            "option_space": 30,
+            "padding_bottom": 30
+          }
+        },
+        "subscriptions": {
+          "type": "subscription",
+          "settings": {
+            "subscriptions_enable_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "quantity": {
+          "type": "quantity",
+          "disabled": true,
+          "settings": {
+            "show_quantity": true,
+            "padding_bottom": 20
+          }
+        },
+        "sizes-remaining": {
+          "type": "size-remaining",
+          "disabled": true,
+          "settings": {
+            "info_page": "",
+            "title": "",
+            "show_remaining": true,
+            "show_remaining_style": "low",
+            "countdown": 10,
+            "padding_bottom": 0
+          }
+        },
+        "buttons": {
+          "type": "add-buttons",
+          "settings": {
+            "enable_payment_button": true,
+            "enable_gift_card_recipient": false,
+            "padding_bottom": 0
+          }
+        },
+        "liquid_qgLrkG": {
+          "type": "liquid",
+          "name": "Liquid Spedizione",
+          "settings": {
+            "custom_liquid": "<div class=\"custom-shipping-container\">\n  <div class=\"pulse-dot\"></div>\n  <div class=\"text-block-shipping\">\n    Disponibile – <strong>🚚 SPEDIZIONE GRATUITA</strong> – Arrivo previsto tra <span id=\"shipping-date\" class=\"shipping-date\"></span>\n  </div>\n</div>\n\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;600&display=swap');\n\n  .custom-shipping-container {\n    background-color: #F3F3F3 !important;\n    border-radius: 5px;\n    padding: 10px 15px;\n    margin-top: 15px;\nmargin-bottom: 15px;\n    display: flex !important;\n    align-items: center;\n    font-family: 'Figtree', sans-serif !important;\n    color: #2e413d !important;\n    width: 100%;\n    box-sizing: border-box;\n    gap: 8px;\n  }\n\n  .text-block-shipping {\n    font-size: 14px;\n    line-height: 1.4;\n    text-align: left;\n    color: #2e413d !important;\n    font-family: 'Figtree', sans-serif !important;\n  }\n\n  .text-block-shipping strong,\n  .shipping-date {\n    font-family: 'Figtree', sans-serif !important;\n    font-weight: 600 !important;\n  }\n\n  .pulse-dot {\n    width: 8px;\n    height: 8px;\n    border-radius: 50%;\n    background-color: #FF4B00;\n    animation: pulse 1.5s infinite;\n    flex-shrink: 0;\n  }\n\n  @keyframes pulse {\n    0% { transform: scale(1); opacity: 1; }\n    50% { transform: scale(1.5); opacity: 0.5; }\n    100% { transform: scale(1); opacity: 1; }\n  }\n</style>\n\n<script>\n  (function(){\n    const today = new Date();\n    const workingDays = [1,2,3,4,5];\n    let d1 = new Date(today), d2;\n\n    d1.setDate(d1.getDate()+1);\n    while (!workingDays.includes(d1.getDay())) d1.setDate(d1.getDate()+1);\n\n    d2 = new Date(d1);\n    d2.setDate(d1.getDate()+1);\n    while (!workingDays.includes(d2.getDay())) d2.setDate(d2.getDate()+1);\n\n    const daysShort = { lunedì:\"Lun\", martedì:\"Mar\", mercoledì:\"Mer\", giovedì:\"Gio\", venerdì:\"Ven\", sabato:\"Sab\", domenica:\"Dom\" };\n    const monthsShort = { gennaio:\"gen\", febbraio:\"feb\", marzo:\"mar\", aprile:\"apr\", maggio:\"mag\", giugno:\"giu\", luglio:\"lug\", agosto:\"ago\", settembre:\"set\", ottobre:\"ott\", novembre:\"nov\", dicembre:\"dic\" };\n\n    function fmt(d) {\n      const wd = daysShort[d.toLocaleDateString(\"it-IT\",{weekday:\"long\"}).toLowerCase()];\n      const mo = monthsShort[d.toLocaleDateString(\"it-IT\",{month:\"long\"}).toLowerCase()];\n      return `${wd} ${d.getDate()} ${mo}`;\n    }\n\n    let txt = `Domani – ${fmt(d1)}`;\n    if (today.getDay()===5) txt = `Lun – ${fmt(d2)}`;\n    document.getElementById(\"shipping-date\").textContent = txt;\n  })();\n</script>"
+          }
+        },
+        "liquid_mTrrR4": {
+          "type": "liquid",
+          "name": "Liquid Low Stock",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html lang=\"it\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Stock Countdown</title>\n  <style>\n    @import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600&display=swap');\n\n    html, body {\n      margin: 0;\n      padding: 0;\n      box-sizing: border-box;\n      font-family: 'Figtree', sans-serif;\n      font-size: 14px;\n      color: #2e413d;\n      overflow-x: hidden;\n    }\n\n    .stock-container {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      gap: 5px;\n      padding: 10px;\n      margin-top: 20px;\n      margin-bottom: 20px;\n      max-width: 100%;\n    }\n\n    .stock-text {\n      font-weight: 600;\n      color: #2e413d;\n    }\n\n    .stock-number {\n      font-weight: 600;\n      color: #FF4B00;\n    }\n\n    .battery {\n      width: 50px;\n      height: 13px;\n      border: 2px solid #FF4B00;\n      border-radius: 2px;\n      position: relative;\n    }\n\n    .battery-level {\n      width: 20%;\n      height: 100%;\n      background-color: #FF4B00;\n      border-radius: 1px;\n      animation: blink 1s infinite;\n    }\n\n    @keyframes blink {\n      0%, 100% { opacity: 1; }\n      50% { opacity: 0.4; }\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"stock-container\">\n    <div class=\"stock-text\">Prodotti ancora in stock:</div>\n    <div class=\"stock-number\">27</div>\n    <div class=\"battery\">\n      <div class=\"battery-level\"></div>\n    </div>\n  </div>\n\n</body>\n</html>"
+          }
+        },
+        "description_TfYPTU": {
+          "type": "description",
+          "settings": {
+            "style": "accordions",
+            "enable_description": true,
+            "read_more": true,
+            "icon_description": "",
+            "description_expanded": true,
+            "title_1": "Istruzioni per l'utilizzo",
+            "icon_name_1": "",
+            "raw_content_1": "<p>Utilizzare le patch IonClear™ è semplice e richiede solo pochi secondi, <strong>2 volte a settimana.</strong></p><p>1. <strong>Detergi</strong> accuratamente il viso con un prodotto delicato;<br/>2. <strong>Asciuga</strong> bene la zona nasale;<br/>3. <strong>Applica la patch</strong> sul naso pulito e asciutto;<br/>4. L<strong>asciala agire</strong> per almeno<strong> 6–8 ore</strong> (ideale: durante la notte);<br/>5. <strong>Rimuovila</strong> delicatamente. Non serve risciacquare.</p><p><strong>Una box contiene 8 patch.</strong></p><p>Il trattamento è sempre lo stesso, ma ogni fase lavora su un livello diverso della pelle.<br/><br/><br/>Una box contiene 8 patch.<br/><br/>Per ottenere risultati visibili e duraturi, consigliamo un uso costante con <strong>2 applicazioni a settimana</strong>, su pelle pulita e asciutta.</p>",
+            "title_2": "Lista Ingredienti",
+            "icon_name_2": "",
+            "raw_content_2": "<p>Ogni patch IonClear™ è formulata con una combinazione esclusiva di attivi ad alta efficacia:</p><ul><li>Idrocolloidi di grado medicale</li><li>Tecnologia ionica a rilascio intelligente (IonClear™)</li><li>Estratti fermentati di tè verde e acqua di riso</li><li>Acido salicilico incapsulato (microdosato)</li><li>Centella asiatica</li><li>Niacinamide</li><li>Senza profumi, alcool, oli essenziali o parabeni</li></ul>",
+            "title_3": "Risultati dei clienti",
+            "icon_name_3": "",
+            "raw_content_3": "<p>Dopo il primo mese di utilizzo (1 box):</p><p>✔ <strong>L’87%</strong> dei clienti nota pori visibilmente meno evidenti;<br/><br/>✔ <strong>Il 91%</strong> riferisce una pelle più liscia e compatta al tatto;<br/><br/>✔ <strong>Il 78%</strong> afferma di non aver più bisogno di schiacciare punti neri.</p><p><strong>Dopo</strong> <strong>3 mesi</strong>:</p><p>🔥 I pori dilatati diventano invisibili;<br/><br/>🔥 La grana della pelle si uniforma visibilmente;<br/><br/>🔥 La zona naso è così liscia che il fondotinta (o il correttore) non serve più;<br/><br/>🔥 Chi prima usava filtri... ora non ne ha più bisogno.</p><p>IonClear™ è stato testato su uomini e donne dai 18 ai 45 anni.</p><p>Fonte: test su 7.854 clienti reali che hanno utilizzato IonClear™ per 90 giorni consecutivi.</p>",
+            "title_4": "",
+            "icon_name_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "icon_name_5": "",
+            "raw_content_5": "",
+            "padding_bottom": 20
+          }
+        },
+        "complimentary_EXEUUL": {
+          "type": "complimentary",
+          "settings": {
+            "title": "Il kit perfetto per iniziare",
+            "complimentary_list_limit": 1,
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "style": "none",
+            "enable_description": true,
+            "read_more": false,
+            "icon_description": "",
+            "description_expanded": true,
+            "title_1": "Information",
+            "icon_name_1": "",
+            "raw_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
+            "title_2": "Details",
+            "icon_name_2": "",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
+            "title_3": "",
+            "icon_name_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "icon_name_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "icon_name_5": "",
+            "raw_content_5": "",
+            "padding_bottom": 20
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "disabled": true,
+          "settings": {
+            "title": "Buy it with",
+            "upsell_type": "product_single",
+            "product": "",
+            "upsell_product_list": [],
+            "upsell_list_limit": 1,
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "image_HHyQ7T",
+        "title",
+        "text_dEdAhr",
+        "liquid_UmDUVc",
+        "icon_txt9aW",
+        "icon_abRabA",
+        "icon_7tgKFJ",
+        "icon_xzXmRP",
+        "price",
+        "variants",
+        "subscriptions",
+        "quantity",
+        "sizes-remaining",
+        "buttons",
+        "liquid_qgLrkG",
+        "liquid_mTrrR4",
+        "description_TfYPTU",
+        "complimentary_EXEUUL",
+        "description",
+        "upsell"
+      ],
+      "settings": {
+        "layout": "thumbnails-below@slides",
+        "image_width": "wide",
+        "image_spacing": 10,
+        "align": "left",
+        "bg": "palette--light bg--neutral",
+        "mobile_layout": "thumbs",
+        "enable_video_looping": true,
+        "zoom_enable": true,
+        "alt_text_enable": true,
+        "alt_text_icon": "icon-ruler",
+        "product_breadcrumbs_enable": false,
+        "product_breadcrumbs_list": [],
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_Cgp9B3": {
+      "type": "section-double",
+      "blocks": {
+        "text_tKjFpL": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Come funziona",
+            "text": "<p>Ti basta applicare la patch sulla zona naso pulita e asciutta, prima di andare a dormire.<br/></p><p><strong>In 6–8 ore</strong>, gli idrocolloidi assorbono il sebo in profondità, mentre gli ioni attivi rilasciano gli ingredienti purificanti dove servono.<br/><br/>Al mattino, la pelle è visibilmente più pulita, liscia e opaca.<br/><br/>Zero irritazioni. Zero sforzo. Solo risultati.<br/><br/></p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": "#f3ebe2"
+          }
+        },
+        "image_3e4iCf": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "text_tKjFpL",
+        "image_3e4iCf"
+      ],
+      "settings": {
+        "height": "use_screen_three_quarters",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_icons_nzT4mj": {
+      "type": "section-icons",
+      "blocks": {
+        "icon_block_zC8ry8": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#aaaaaa",
+            "title": "Applica prima di dormire",
+            "text": "<p>Una sola patch, zero routine complicate. Si applica in 10 secondi.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_r4iWdG": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#aaaaaa",
+            "title": "Agisce durante la notte",
+            "text": "<p>In 6-8 ore gli <strong>idrocolloidi</strong> assorbono il sebo, gli <strong>ioni attivi</strong> purificano in profondità.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_zWd6Gt": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#aaaaaa",
+            "title": "Risultato al risveglio",
+            "text": "<p>Una sensazione diversa, una pelle più pulita. Il cambiamento cresce con ogni applicazione.</p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_block_zC8ry8",
+        "icon_block_r4iWdG",
+        "icon_block_zWd6Gt"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "icons_size": 30,
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 80
+      }
+    },
+    "section_richtext_RwTUGb": {
+      "type": "section-richtext",
+      "blocks": {
+        "heading_8Hxcpz": {
+          "type": "heading",
+          "settings": {
+            "heading": "IonClear™ è il 1° trattamento nasale intelligente.",
+            "text_size": 10
+          }
+        },
+        "spacer_kkyRPw": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 40,
+            "show_line": false
+          }
+        },
+        "kicker_KdP38A": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "+10.000 clienti soddisfatti",
+            "enable_line": false,
+            "text_size": 4
+          }
+        }
+      },
+      "block_order": [
+        "heading_8Hxcpz",
+        "spacer_kkyRPw",
+        "kicker_KdP38A"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 90,
+        "padding_bottom": 90
+      }
+    },
+    "section_columns_w6HeJi": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_rjwHMC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "shape_class": "",
+            "title": "Dimentica i tuoi pori",
+            "text": "<ul><li><strong>Risultati visibili</strong> dalla prima applicazione.</li><li>Ogni patch <strong>affina, purifica e migliora</strong> la grana della pelle.</li><li>Con un uso costante,<strong> i risultati</strong> si stabilizzano e <strong>durano nel tempo</strong>.<br/><br/>Puoi ricevere fino a: 3 box, spedizione gratuita e Manuale Bonus in regalo.</li></ul>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_nfKJ3d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "shape_class": "",
+            "title": "Tecnologia IonHydro™",
+            "text": "<p>All’interno di ogni patch IonClear™ è attivata una t<strong>ecnologia a rilascio mirato</strong> che libera ioni attivi <strong>intelligenti</strong>.</p><p>Queste micro-cariche penetrano nei pori e si attivano solo<strong> in presenza di impurità</strong> e sebo in eccesso, aiutando a<strong> scioglierli e rimuoverli in profondità</strong> — senza stressare la pelle.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_8EHkYe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "shape_class": "",
+            "title": "hai già provato di tutto?",
+            "text": "<p>Spremi, copri, applichi il solito cerotto o la maschera che si \"strappa via\", va via qualcosa, ma poi torna tutto come prima.</p><p>Il problema NON è la tua pelle, ma è il <strong>METODO</strong> che<strong> NON FUNZIONA!</strong></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rjwHMC",
+        "text_block_nfKJ3d",
+        "text_block_8EHkYe"
+      ],
+      "settings": {
+        "title": "Non un prodotto in più. L’ultimo.",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "wh_ratio": 1,
+        "grid_large": 3,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "progress_bar_mobile": true,
+        "width": "wrapper",
+        "padding_top": 90,
+        "padding_bottom": 36
+      }
+    },
+    "ss_comparison_table_6_FBRDyT": {
+      "type": "ss-comparison-table-6",
+      "blocks": {
+        "list_item_wr9hEk": {
+          "type": "list_item",
+          "settings": {
+            "text": "COSTA MENO DI UNA PULIZIA VISO"
+          }
+        },
+        "list_item_KTrAXx": {
+          "type": "list_item",
+          "settings": {
+            "text": "DURA 3 MESI, NON 3 GIORNI"
+          }
+        },
+        "list_item_mmCVEe": {
+          "type": "list_item",
+          "settings": {
+            "text": "NIENTE APPUNTAMENTI, LO FAI DA CASA"
+          }
+        },
+        "list_item_tjqDY9": {
+          "type": "list_item",
+          "settings": {
+            "text": "RISULTATO MIGLIORE"
+          }
+        },
+        "table_row_Ln9EpA": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "COSTO 1 SEDUTA",
+            "first_column": "€24 (per Box)",
+            "first_column_icon": "none",
+            "second_column": "€50 – €80",
+            "second_column_icon": "none",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_6TkKfU": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "FREQUENZA",
+            "first_column": "2 patch a settimana",
+            "first_column_icon": "none",
+            "second_column": "1 al mese",
+            "second_column_icon": "none",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_Lk8NDE": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "COSTO 3 MESI",
+            "first_column": "€83,76 (3 box)",
+            "first_column_icon": "none",
+            "second_column": "€150 - €240",
+            "second_column_icon": "none",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_i7QWGW": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "RISPARMIO STIMATO",
+            "first_column": "-€156",
+            "first_column_icon": "none",
+            "second_column": "-",
+            "second_column_icon": "none",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_R3tfWN": {
+          "type": "table_row",
+          "disabled": true,
+          "settings": {
+            "row_heading": "3rd Party Tested",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_6DtURx": {
+          "type": "table_row",
+          "disabled": true,
+          "settings": {
+            "row_heading": "Delicious Taste",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_wr9hEk",
+        "list_item_KTrAXx",
+        "list_item_mmCVEe",
+        "list_item_tjqDY9",
+        "table_row_Ln9EpA",
+        "table_row_6TkKfU",
+        "table_row_Lk8NDE",
+        "table_row_i7QWGW",
+        "table_row_R3tfWN",
+        "table_row_6DtURx"
+      ],
+      "settings": {
+        "body_gap": 32,
+        "body_gap_mobile": 40,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p>Seduta Estetica <strong>vs IonClear™</strong></p>",
+        "heading_custom": true,
+        "heading_font": "figtree_n6",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 120,
+        "text": "<p>IonClear™ ti offre risultati visibili, senza appuntamenti né spese esagerate — <br/>e a una frazione del costo di una seduta estetica.</p>",
+        "text_custom": true,
+        "text_font": "figtree_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 16,
+        "list_mt": 50,
+        "list_mt_mobile": 32,
+        "list_gap": 30,
+        "list_gap_mobile": 30,
+        "list_hide_mobile": true,
+        "icon_size": 28,
+        "icon_size_mobile": 28,
+        "icon_margin_right": 16,
+        "list_text_custom": true,
+        "list_text_font": "figtree_n4",
+        "list_text_size": 14,
+        "list_text_size_mobile": 18,
+        "list_text_height": 150,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 2,
+        "table_mt_mobile": 32,
+        "table_column_active": "1",
+        "table_radius": 0,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 100,
+        "table_heading_image_size_mobile": 80,
+        "first_heading": "IonClear™",
+        "second_heading": "Seduta Estetica",
+        "third_heading": "Third",
+        "four_heading": "Fourth",
+        "table_heading_custom": true,
+        "table_heading_font": "figtree_n6",
+        "table_heading_size": 20,
+        "table_heading_size_mobile": 16,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 18,
+        "table_heading_padding_horizontal_mobile": 18,
+        "table_heading_padding_vertical": 18,
+        "table_heading_padding_vertical_mobile": 18,
+        "table_row_padding_horizontal": 14,
+        "table_row_padding_horizontal_mobile": 14,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 16,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": true,
+        "table_row_heading_font": "figtree_n6",
+        "table_row_heading_size": 14,
+        "table_row_heading_size_mobile": 12,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": true,
+        "table_row_text_font": "figtree_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 14,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 24,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#2e413d",
+        "text_color": "#2e413d",
+        "icon_color": "#2e413d",
+        "list_text_color": "#2e413d",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#16142b",
+        "button_bg_hover_color": "#16142b",
+        "button_border_color": "#2e413d",
+        "button_border_hover_color": "#2e413d",
+        "table_border_color": "#334641",
+        "table_active_border_color": "#b9b9b9",
+        "table_heading_color": "#2e413d",
+        "table_heading_active_color": "#ffffff",
+        "table_heading_bg_active_color": "#2e413d",
+        "table_column_active_bg_color": "#2e413d",
+        "table_row_heading_color": "#2e413d",
+        "table_row_text_color": "#2e413d",
+        "table_row_active_text_color": "#ffffff",
+        "background_color": "#fcfaf7",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 40,
+        "margin_bottom": 32,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "section_richtext_LmwPfq": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_CLq3RA": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "Introducing",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "heading_h8NaYE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Questa non è una maschera che tira via. È il risultato visibile dopo il trattamento IonClear™ . Vuoi questo “dopo”? Inizia oggi.",
+            "text_size": 12
+          }
+        },
+        "text_fHYdjW": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<h1>Questa non è una maschera che tira via.<br/>È il risultato visibile dopo il trattamento IonClear™ in 3 fasi.<br/>Vuoi questo “dopo”? Inizia oggi.</h1>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_Pp3jiT": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Shop all",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--medium",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--neutral"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_CLq3RA",
+        "heading_h8NaYE",
+        "text_fHYdjW",
+        "button_Pp3jiT"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 46
+      }
+    },
+    "section_before_after_98ENrJ": {
+      "type": "section-before-after",
+      "settings": {
+        "orientation": "horizontal",
+        "handle_color": "#ffffff",
+        "start_position": 50,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 120
+      }
+    },
+    "image-with-text": {
+      "type": "section-double",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "kicker": "Al mattino la differenza si vede.",
+            "title": "",
+            "text": "<p>IonClear™ è il trattamento nasale intelligente che lavora per te durante la notte.<br/><br/>Grazie alla tecnologia ionica e alla base di idrocolloidi, assorbe l’eccesso di sebo e libera i pori in modo delicato ma efficace.<br/><br/>Ti basta applicarlo prima di dormire: in <strong>6–8 ore</strong> le impurità si trasferiscono sulla patch e la pelle appare visibilmente più pulita, liscia e uniforme.</p><p>Zero irritazioni, zero rebound.<br/><br/>Solo un naso finalmente più pulito, senza schiacciarlo.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "related": {
+      "type": "related",
+      "disabled": true,
+      "settings": {
+        "heading": "You might also like",
+        "bg": "palette--light bg--neutral",
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_small": 1.2,
+        "related_products_enable": true,
+        "limit": 6,
+        "product_recommendations_heading": "Related products",
+        "show_recently_viewed": true,
+        "product_recently_limit": 6,
+        "product_recently_minimum": 4,
+        "product_recently_heading": "Recently viewed",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ss_testimonial_4_GqKCwy": {
+      "type": "ss-testimonial-4",
+      "blocks": {
+        "slide_3QTPCF": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "text": "“Non pensavo si potesse vedere una differenza già dopo la seconda patch. Ora continuo, voglio vedere dove arrivo.”",
+            "author": "Chiara L.",
+            "city": "30 anni"
+          }
+        },
+        "slide_edb4cr": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "text": "“Ho sempre avuto punti neri e pori super evidenti. Ne ho provate mille. Questo è l’unico metodo che mi ha dato un cambiamento che dura. La differenza si vede davvero!”",
+            "author": "Silvia B.",
+            "city": "24 anni"
+          }
+        },
+        "slide_TaYnqb": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "text": "“Non è il solito cerotto. Non mi ha irritato, non tira via la pelle. Dopo 3 settimane i pori sono molto, molto meno visibili. E lo metto prima di dormire: fine”",
+            "author": "Ginevra T.",
+            "city": "34 anni"
+          }
+        },
+        "slide_zd4DET": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "text": "“Lo uso da 1 mese. Lavora davvero bene. Il naso è più uniforme e armonico”",
+            "author": "Carola P.",
+            "city": "27 anni"
+          }
+        },
+        "slide_TbVxzd": {
+          "type": "slide",
+          "settings": {
+            "stars_count": 5,
+            "text": "“A distanza di 3 mesi mi guardo allo specchio e noto la differenza. Non è solo “pulito”, è più uniforme, per niente poroso. E non mi serve nemmeno truccarmi come prima.”",
+            "author": "Fabiana A.",
+            "city": "26 anni"
+          }
+        }
+      },
+      "block_order": [
+        "slide_3QTPCF",
+        "slide_edb4cr",
+        "slide_TaYnqb",
+        "slide_zd4DET",
+        "slide_TbVxzd"
+      ],
+      "disabled": true,
+      "settings": {
+        "stars_count": 5,
+        "stars_size": 16,
+        "stars_align": "center",
+        "stars_align_card": "center",
+        "text": "<p>4,95/5 (+10,000 CLIENTI SODDISFATTI)</p>",
+        "text_custom": true,
+        "text_font": "figtree_n5",
+        "text_size": 14,
+        "text_size_mobile": 12,
+        "text_height": 130,
+        "text_align": "center",
+        "text_mt": 12,
+        "heading": "Parlano i risultati",
+        "heading_custom": true,
+        "heading_font": "figtree_n6",
+        "heading_size": 50,
+        "heading_size_mobile": 36,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_mt": 20,
+        "slider_width": 80,
+        "slider_view": 3,
+        "slider_view_mobile": 1.5,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 36,
+        "card_padding_vertical": 60,
+        "card_padding_vertical_mobile": 30,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 20,
+        "card_radius": 0,
+        "card_border_thickness": 1,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 16,
+        "card_text_size_mobile": 16,
+        "card_text_height": 130,
+        "card_text_align": "center",
+        "card_text_mt": 20,
+        "card_author_custom": false,
+        "card_author_font": "josefin_sans_n4",
+        "card_author_size": 14,
+        "card_author_size_mobile": 14,
+        "card_author_height": 130,
+        "card_author_align": "center",
+        "card_author_mt": 20,
+        "card_city_custom": false,
+        "card_city_font": "josefin_sans_n4",
+        "card_city_size": 14,
+        "card_city_size_mobile": 14,
+        "card_city_height": 130,
+        "card_city_align": "center",
+        "card_city_mt": 12,
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_icon_size": 28,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "stars_color": "#d2815f",
+        "text_color": "#2e413d",
+        "heading_color": "#2e413d",
+        "card_bg_color": "#fcf9f7",
+        "card_border_color": "#b9b9b9",
+        "card_text_color": "#2e413d",
+        "card_author_color": "#2e413d",
+        "card_city_color": "#2e413d",
+        "arrow_color": "#2e413d",
+        "arrow_hover_color": "#fcfaf7",
+        "arrow_bg_color": "#f8f0e7",
+        "arrow_bg_hover_color": "#d2815f",
+        "arrow_border_color": "#2e413d",
+        "arrow_border_hover_color": "#fcfaf7",
+        "dots_color": "#2e413d",
+        "background_color": "#fcfaf7",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
+      }
+    },
+    "section_richtext_mRwbfN": {
+      "type": "section-richtext",
+      "blocks": {
+        "image_EezR9z": {
+          "type": "image",
+          "settings": {
+            "image_max_limit": 90,
+            "link": ""
+          }
+        },
+        "kicker_PCmJaV": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "4.95/5 (+10.000 clienti soddisfatti)",
+            "enable_line": false,
+            "text_size": 2
+          }
+        },
+        "heading_iWqXGr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Parlano i Risultati",
+            "text_size": 11
+          }
+        }
+      },
+      "block_order": [
+        "image_EezR9z",
+        "kicker_PCmJaV",
+        "heading_iWqXGr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 56,
+        "padding_bottom": 0
+      }
+    },
+    "ss_testimonial_10_3JKjwm": {
+      "type": "ss-testimonial-10",
+      "blocks": {
+        "testimonial_AaXUjb": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>\"Non so come spiegarlo, ma il naso sembra proprio più pulito. Non me lo aspettavo così.\"</p>",
+            "author": "- MARTA, 29 ANNI"
+          }
+        },
+        "testimonial_KGehyA": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>\"Obbligato dalla mia ragazza ad acquistarlo. Devo dire che funziona.. meglio tardi che mai\"</p>",
+            "author": "- MATTEO, 27 ANNI"
+          }
+        },
+        "testimonial_exAB6T": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>\"Mi ero seriamente rassegnata a conviverci… invece guardate come la situazione è migliorata tantissimo!\"</p>",
+            "author": "- ALESSIA, 25 ANNI"
+          }
+        },
+        "testimonial_ayMWEg": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>\"Funziona anche se sei pigra come me. Applichi e via. Io lo metto prima di dormire. L'unico prodotto che ho provato che fa qualcosa di serio!\"<br/><br/></p>",
+            "author": "- CLAUDIA, 27 ANNI"
+          }
+        },
+        "testimonial_HR47wt": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>\"All’inizio ero scettico, ma si vede proprio. Il naso è più pulito e meno lucido.\"</p>",
+            "author": "- FILIPPO, 26 ANNI"
+          }
+        },
+        "testimonial_TQzYwr": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "text": "<p>\"Ottimo. Lo metto due volte a settimana e mi trovo benissimo. Semplice e fa il suo lavoro.\"</p>",
+            "author": "- VALENTINA, 35 ANNI"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_AaXUjb",
+        "testimonial_KGehyA",
+        "testimonial_exAB6T",
+        "testimonial_ayMWEg",
+        "testimonial_HR47wt",
+        "testimonial_TQzYwr"
+      ],
+      "name": "SS - Testimonials #10",
+      "settings": {
+        "body_padding_vertical": 50,
+        "body_padding_vertical_mobile": 16,
+        "body_padding_horizontal": 50,
+        "body_padding_horizontal_mobile": 16,
+        "body_radius": 0,
+        "body_border_thickness": 0,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 150,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 14,
+        "sub_heading_height": 150,
+        "slider_view": 3.7,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 36,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "stars_size": 16,
+        "stars_mt": 24,
+        "stars_align": "start",
+        "stars_align_mobile": "start",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 14,
+        "text_size_mobile": 14,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "left",
+        "text_align_mobile": "left",
+        "author_custom": true,
+        "author_font": "figtree_n5",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "author_mt": 20,
+        "author_align": "left",
+        "author_align_mobile": "left",
+        "arrow_size": 50,
+        "arrow_size_mobile": 42,
+        "arrow_icon_size": 40,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_mt": 40,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "body_bg_color": "#fcfaf7",
+        "body_border_color": "#000000",
+        "stars_color": "#756e67",
+        "text_color": "#334541",
+        "author_color": "#334541",
+        "arrow_color": "#756e67",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#756e67",
+        "arrow_border_color": "#756e67",
+        "arrow_border_hover_color": "#756e67",
+        "dots_color": "#334541",
+        "heading_color": "#334541",
+        "sub_heading_color": "#334541",
+        "background_color": "#fcfaf7",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 44,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "section_faq_U4JdWF": {
+      "type": "section-faq",
+      "blocks": {
+        "text_7mUWaM": {
+          "type": "text",
+          "settings": {
+            "title": "Cosa sono gli idrocolloidi e gli ioni attivi?",
+            "content": "<p>Gli idrocolloidi sono materiali dermatologici avanzati che assorbono sebo e impurità dai pori in modo profondo ma delicato.<br/><br/>Gli ioni attivi intelligenti, ispirati alla skincare coreana, stimolano il rilascio mirato degli ingredienti purificanti solo dove la pelle ne ha bisogno.</p><p>IonClear™ unisce due tecnologie nate dalla cosmetica funzionale coreana per offrirti un trattamento efficace, progressivo e visibile — già dalla prima applicazione.</p>"
+          }
+        },
+        "text_43NgFF": {
+          "type": "text",
+          "settings": {
+            "title": "Per quanto tempo devo usare IonClear™?",
+            "content": "<p>Puoi iniziare a vedere miglioramenti già dalla prima applicazione.<br/><br/>Consigliamo di utilizzare <strong>2 patch a settimana</strong> in modo costante per ottimizzare i risultati.<br/><br/>1 box è sufficiente per iniziare il cambiamento, ma con 2 o 3 box consecutivi potrai consolidare i miglioramenti per lungo tempo.</p>"
+          }
+        },
+        "text_GMNQcD": {
+          "type": "text",
+          "settings": {
+            "title": "Quante patch ci sono in ogni box?",
+            "content": "<p>Ogni box contiene 8 patch monouso. Bastano per 1 mese di trattamento (2 patch a settimana).</p>"
+          }
+        },
+        "text_g7r7mp": {
+          "type": "text",
+          "settings": {
+            "title": "È adatto anche a pelli sensibili?",
+            "content": "<p>Sì. La formula è priva di profumi, alcool e agenti irritanti. È dermatologicamente testata ed efficace anche su pelli reattive o facilmente arrossabili.</p>"
+          }
+        },
+        "text_kD6Hkz": {
+          "type": "text",
+          "settings": {
+            "title": "Quando vedrò i primi risultati?",
+            "content": "<p>L'87% dei clienti nota una pelle più pulita e liscia già dopo la prima settimana. I risultati si stabilizzano e migliorano dopo ogni applicazione.</p>"
+          }
+        },
+        "text_dGa3Dz": {
+          "type": "text",
+          "settings": {
+            "title": "I risultati durano nel tempo?",
+            "content": "<p>Sì, fino a 20 settimane con un trattamento di 2-3 mesi. I pori restano affinati e la pelle più equilibrata anche dopo.</p>"
+          }
+        },
+        "text_TiwqKq": {
+          "type": "text",
+          "settings": {
+            "title": "Quanto costa la spedizione?",
+            "content": "<p>La spedizione è gratuita per i bundle da 2 o 3 box. Per gli ordini singoli, il costo è di €9,99.</p>"
+          }
+        },
+        "text_bq6CzV": {
+          "type": "text",
+          "settings": {
+            "title": "In quanto tempo riceverò il mio ordine?",
+            "content": "<p>Il nostro metodo di spedizione Express prevede la consegna del tuo ordine in <strong>1–2 giorni lavorativi.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_7mUWaM",
+        "text_43NgFF",
+        "text_GMNQcD",
+        "text_g7r7mp",
+        "text_kD6Hkz",
+        "text_dGa3Dz",
+        "text_TiwqKq",
+        "text_bq6CzV"
+      ],
+      "settings": {
+        "title": "Domande frequenti",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 76,
+        "padding_bottom": 36
+      }
+    },
+    "section_collection_slider_RqDyp9": {
+      "type": "section-collection-slider",
+      "name": "Product slider",
+      "settings": {
+        "collection": "tuitti-i-prodotti-2",
+        "product_limit": 12,
+        "title": "",
+        "align_text": "title-center",
+        "progress_bar": "mobile",
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "ss_product_reviews_tNPmht",
+    "main",
+    "section_double_Cgp9B3",
+    "section_icons_nzT4mj",
+    "section_richtext_RwTUGb",
+    "section_columns_w6HeJi",
+    "ss_comparison_table_6_FBRDyT",
+    "section_richtext_LmwPfq",
+    "section_before_after_98ENrJ",
+    "image-with-text",
+    "related",
+    "ss_testimonial_4_GqKCwy",
+    "section_richtext_mRwbfN",
+    "ss_testimonial_10_3JKjwm",
+    "section_faq_U4JdWF",
+    "section_collection_slider_RqDyp9"
+  ]
+}
