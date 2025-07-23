@@ -9,89 +9,6 @@
  */
 {
   "sections": {
-    "ss_product_reviews_tNPmht": {
-      "type": "ss-product-reviews",
-      "blocks": {
-        "review_eBnqXr": {
-          "type": "review",
-          "settings": {
-            "hide_image": false,
-            "author": "Lori",
-            "stars_count": 5,
-            "text": "Very pleased with this purchase! It's high-quality, easy to use, and reliable. Highly recommend for its efficiency and convenience."
-          }
-        },
-        "review_mMwhTE": {
-          "type": "review",
-          "settings": {
-            "hide_image": false,
-            "author": "Jillian",
-            "stars_count": 5,
-            "text": "Extremely satisfied with this product! It offers excellent quality and simplicity. I recommend for its effectiveness and user-friendliness"
-          }
-        }
-      },
-      "block_order": [
-        "review_eBnqXr",
-        "review_mMwhTE"
-      ],
-      "name": "SS - Product Reviews",
-      "settings": {
-        "reviews_position": "above_title",
-        "reviews_meta": "Reviews",
-        "reviews_radius": 0,
-        "review_padding_vertical": 8,
-        "review_padding_horizontal": 8,
-        "review_radius": 0,
-        "review_border_thickness": 0,
-        "image_width": 60,
-        "image_radius": 8,
-        "image_border_thickness": 0,
-        "image_ratio": "square",
-        "stars_size": 14,
-        "author_custom": false,
-        "author_font": "josefin_sans_n4",
-        "author_size": 14,
-        "author_size_mobile": 14,
-        "author_height": 130,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 12,
-        "text_size_mobile": 12,
-        "text_height": 130,
-        "text_mt": 4,
-        "arrow_size": 24,
-        "arrow_size_mobile": 24,
-        "arrow_icon_size": 16,
-        "arrow_icon_size_mobile": 16,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": true,
-        "review_bg_color": "#f3f3f3",
-        "review_border_color": "#000000",
-        "image_border_color": "#000000",
-        "author_color": "#2e413d",
-        "text_color": "#2e413d",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#f3f3f3",
-        "arrow_bg_hover_color": "#dddddd",
-        "arrow_border_color": "#f3f3f3",
-        "arrow_border_hover_color": "#dddddd",
-        "stars_color": "#ff4b00",
-        "background_color": "#f3f3f3",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "main": {
       "type": "product",
       "blocks": {
@@ -115,24 +32,20 @@
         },
         "text_dEdAhr": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "title": "<h6>Il primo trattamento nasale in patch con <strong>tecnologia a ioni attivi intelligenti</strong> che libera i pori, affina la pelle e previene le imperfezioni, migliorando l’aspetto della pelle fin dalla prima applicazione e continua a perfezionarsi nel tempo.</h6>",
+            "title": "<h6>Utilizzare una volta al giorno</h6>",
             "padding_bottom": 16
-          }
-        },
-        "liquid_UmDUVc": {
-          "type": "liquid",
-          "settings": {
-            "custom_liquid": "<div id='ss-reviews'></div>"
           }
         },
         "icon_txt9aW": {
           "type": "icon",
           "settings": {
-            "icon_name": "icon-washer",
+            "icon_name": "icon-award",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-07-23T105353.981.png",
             "icon_size": 22,
             "icon_color": "#4b4b4b",
-            "text": "<p>Risultati VIsibili dalla 1ª applicazione</p>",
+            "text": "<p><strong>Ricresce i capelli</strong> entro 2-6 mesi</p>",
             "padding_bottom": 8
           }
         },
@@ -140,9 +53,10 @@
           "type": "icon",
           "settings": {
             "icon_name": "icon-lock-shield",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-07-23T105353.981.png",
             "icon_size": 22,
             "icon_color": "#4b4b4b",
-            "text": "<p>Garanzia rimborso 30 Giorni</p>",
+            "text": "<p><strong>Rafforza le radici </strong>per capelli più spessi e forti</p>",
             "padding_bottom": 8
           }
         },
@@ -150,9 +64,10 @@
           "type": "icon",
           "settings": {
             "icon_name": "icon-shipment",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-07-23T105353.981.png",
             "icon_size": 22,
             "icon_color": "#4b4b4b",
-            "text": "<p>Spedizione Rapida 1-2 giorni</p>",
+            "text": "<p><strong>Nutre il cuoio capelluto </strong>per una salute ottimale</p>",
             "padding_bottom": 8
           }
         },
@@ -160,9 +75,10 @@
           "type": "icon",
           "settings": {
             "icon_name": "icon-award",
+            "image": "shopify://shop_images/Progetto_senza_titolo_-_2025-07-23T105353.981.png",
             "icon_size": 22,
             "icon_color": "#4b4b4b",
-            "text": "<p>Designed in Korea</p>",
+            "text": "<p><strong>Previene la caduta dei capelli </strong>per una copertura più completa</p>",
             "padding_bottom": 50
           }
         },
@@ -311,7 +227,6 @@
         "image_HHyQ7T",
         "title",
         "text_dEdAhr",
-        "liquid_UmDUVc",
         "icon_txt9aW",
         "icon_abRabA",
         "icon_7tgKFJ",
@@ -1416,7 +1331,6 @@
     }
   },
   "order": [
-    "ss_product_reviews_tNPmht",
     "main",
     "section_double_Cgp9B3",
     "section_icons_nzT4mj",
